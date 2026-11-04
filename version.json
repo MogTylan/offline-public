@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26\n\n• Accueil : correction d'un blocage au démarrage introduit en 1.25 (tuiles et outils absents)",
-  "version": "1.26",
-  "notes": "• Accueil : correction d'un blocage au démarrage introduit en 1.25 (tuiles et outils absents)",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.26/offline-1.26.apk"
+  "versionCode": 28,
+  "versionName": "1.27\n\n• Recherche par début de mot : « eau » ne trouve plus « peau » ni « bureau » ; plusieurs mots doivent tous être présents\n• Les outils et les lieux de la carte apparaissent en tête de la recherche (« orage » → Foudre, « essence » → Station-service)\n• Mode d'emploi : origine du manuel (Offline Survival Manual traduit, mis à jour et corrigé)",
+  "version": "1.27",
+  "notes": "• Recherche par début de mot : « eau » ne trouve plus « peau » ni « bureau » ; plusieurs mots doivent tous être présents\n• Les outils et les lieux de la carte apparaissent en tête de la recherche (« orage » → Foudre, « essence » → Station-service)\n• Mode d'emploi : origine du manuel (Offline Survival Manual traduit, mis à jour et corrigé)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.27/offline-1.27.apk"
 }
