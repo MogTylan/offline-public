@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14\n\n• Mon PIMS : plan individuel de mise en sûreté à remplir dans l'app (foyer, coupures, mise à l'abri, évacuation, numéros d'urgence à appeler d'un appui)\n• Radio : station ici de votre département, fréquence à noter, accès à la radio FM du téléphone\n• Kit d'urgence complété selon le guide officiel « Tous responsables » ; consignes tempête et accident industriel\n• Rappel des applications conseillées manquantes, une fois par version",
-  "version": "1.14",
-  "notes": "• Mon PIMS : plan individuel de mise en sûreté à remplir dans l'app (foyer, coupures, mise à l'abri, évacuation, numéros d'urgence à appeler d'un appui)\n• Radio : station ici de votre département, fréquence à noter, accès à la radio FM du téléphone\n• Kit d'urgence complété selon le guide officiel « Tous responsables » ; consignes tempête et accident industriel\n• Rappel des applications conseillées manquantes, une fois par version",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.14/offline-1.14.apk"
+  "versionCode": 16,
+  "versionName": "1.15\n\n• Morse : tableau, traduction texte ↔ morse, lecture en son ou à la lampe, entraînement à l'écoute\n• Langue des signes française : alphabet en photos, épeler un mot, entraînement\n• Rappel des applications conseillées : le bouton Choisir ouvre la liste pour installer celles que vous voulez\n• Trail Sense retirée des applications conseillées",
+  "version": "1.15",
+  "notes": "• Morse : tableau, traduction texte ↔ morse, lecture en son ou à la lampe, entraînement à l'écoute\n• Langue des signes française : alphabet en photos, épeler un mot, entraînement\n• Rappel des applications conseillées : le bouton Choisir ouvre la liste pour installer celles que vous voulez\n• Trail Sense retirée des applications conseillées",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.15/offline-1.15.apk"
 }
