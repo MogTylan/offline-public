@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24\n\n• Mode d'emploi complet (menu À propos) et bouton ? sur chaque outil\n• Carte : lieux utiles autour de vous (eau, secours, abris, ravitaillement) avec distance, lisibles hors ligne\n• Toucher un lieu lance une trace et le guidage Aller vers\n• Lieux téléchargés à l'ouverture et dans Tout actualiser",
-  "version": "1.24",
-  "notes": "• Mode d'emploi complet (menu À propos) et bouton ? sur chaque outil\n• Carte : lieux utiles autour de vous (eau, secours, abris, ravitaillement) avec distance, lisibles hors ligne\n• Toucher un lieu lance une trace et le guidage Aller vers\n• Lieux téléchargés à l'ouverture et dans Tout actualiser",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.24/offline-1.24.apk"
+  "versionCode": 26,
+  "versionName": "1.25\n\n• Météo : la lune remplace le soleil la nuit (accueil, heures, trajet)",
+  "version": "1.25",
+  "notes": "• Météo : la lune remplace le soleil la nuit (accueil, heures, trajet)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.25/offline-1.25.apk"
 }
