@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28\n\n• Soleil et lune : une ligne Soleil et une ligne Lune, avec lever, zénith et coucher (lune comprise)\n• Carte : toucher un lieu ouvre Aller vers sans lancer de trace ; une trace en cours est signalée, avec Terminer et tracer vers ce lieu\n• Applications conseillées : LocalSend, Meshtastic, bitchat, Merlin Bird ID, Seek et SkyView Lite",
-  "version": "1.28",
-  "notes": "• Soleil et lune : une ligne Soleil et une ligne Lune, avec lever, zénith et coucher (lune comprise)\n• Carte : toucher un lieu ouvre Aller vers sans lancer de trace ; une trace en cours est signalée, avec Terminer et tracer vers ce lieu\n• Applications conseillées : LocalSend, Meshtastic, bitchat, Merlin Bird ID, Seek et SkyView Lite",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.28/offline-1.28.apk"
+  "versionCode": 30,
+  "versionName": "1.29\n\n• Écran de démarrage aux couleurs d'Offline, avec animation de chargement\n• Fenêtre de bienvenue au premier démarrage, avec accès au mode d'emploi",
+  "version": "1.29",
+  "notes": "• Écran de démarrage aux couleurs d'Offline, avec animation de chargement\n• Fenêtre de bienvenue au premier démarrage, avec accès au mode d'emploi",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.29/offline-1.29.apk"
 }
