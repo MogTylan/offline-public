@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25\n\n• Météo : la lune remplace le soleil la nuit (accueil, heures, trajet)",
-  "version": "1.25",
-  "notes": "• Météo : la lune remplace le soleil la nuit (accueil, heures, trajet)",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.25/offline-1.25.apk"
+  "versionCode": 27,
+  "versionName": "1.26\n\n• Accueil : correction d'un blocage au démarrage introduit en 1.25 (tuiles et outils absents)",
+  "version": "1.26",
+  "notes": "• Accueil : correction d'un blocage au démarrage introduit en 1.25 (tuiles et outils absents)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.26/offline-1.26.apk"
 }
