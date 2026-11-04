@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31\n\n• Menu : le mode d'emploi passe au premier niveau, sous Accueil\n• Tout actualiser quitte le menu ; il reste accessible par l'icône ⟳ de l'accueil",
-  "version": "1.31",
-  "notes": "• Menu : le mode d'emploi passe au premier niveau, sous Accueil\n• Tout actualiser quitte le menu ; il reste accessible par l'icône ⟳ de l'accueil",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.31/offline-1.31.apk"
+  "versionCode": 33,
+  "versionName": "1.32\n\n• Lieux autour de moi : téléchargement plus rapide, dans un rayon de 15 km\n• Nouveau téléchargement à l'ouverture dès 8 km du dernier point",
+  "version": "1.32",
+  "notes": "• Lieux autour de moi : téléchargement plus rapide, dans un rayon de 15 km\n• Nouveau téléchargement à l'ouverture dès 8 km du dernier point",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.32/offline-1.32.apk"
 }
