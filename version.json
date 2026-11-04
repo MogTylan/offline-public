@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19\n\n• Météo d'une ville : recherche dans le monde entier, villes favorites gardées hors ligne\n• Météo du trajet : météo tous les 2 à 20 km à l'heure de passage, en ligne droite ou le long d'une trace\n• Calendrier : rappels en notification (à l'heure, 15 min, 1 h avant ou la veille) et météo de chaque jour\n• Accueil : météo du moment sous la date",
-  "version": "1.19",
-  "notes": "• Météo d'une ville : recherche dans le monde entier, villes favorites gardées hors ligne\n• Météo du trajet : météo tous les 2 à 20 km à l'heure de passage, en ligne droite ou le long d'une trace\n• Calendrier : rappels en notification (à l'heure, 15 min, 1 h avant ou la veille) et météo de chaque jour\n• Accueil : météo du moment sous la date",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.19/offline-1.19.apk"
+  "versionCode": 21,
+  "versionName": "1.20\n\n• Tout actualiser : icône ⟳ en haut de l'accueil (verte avec du réseau, grise sans) et dans le menu ; météo, villes, taux de change, aide GPS, position et version d'un coup ; coche verte ou croix rouge pour chaque ligne\n• Menu À propos : Rechercher une mise à jour",
+  "version": "1.20",
+  "notes": "• Tout actualiser : icône ⟳ en haut de l'accueil (verte avec du réseau, grise sans) et dans le menu ; météo, villes, taux de change, aide GPS, position et version d'un coup ; coche verte ou croix rouge pour chaque ligne\n• Menu À propos : Rechercher une mise à jour",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.20/offline-1.20.apk"
 }
