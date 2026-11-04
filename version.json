@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "1.29\n\n• Écran de démarrage aux couleurs d'Offline, avec animation de chargement\n• Fenêtre de bienvenue au premier démarrage, avec accès au mode d'emploi",
-  "version": "1.29",
-  "notes": "• Écran de démarrage aux couleurs d'Offline, avec animation de chargement\n• Fenêtre de bienvenue au premier démarrage, avec accès au mode d'emploi",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.29/offline-1.29.apk"
+  "versionCode": 31,
+  "versionName": "1.30\n\n• Applications conseillées : LocalSend, Meshtastic, bitchat, Merlin Bird ID, Seek et SkyView Lite sont désormais reconnues quand elles sont installées",
+  "version": "1.30",
+  "notes": "• Applications conseillées : LocalSend, Meshtastic, bitchat, Merlin Bird ID, Seek et SkyView Lite sont désormais reconnues quand elles sont installées",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.30/offline-1.30.apk"
 }
