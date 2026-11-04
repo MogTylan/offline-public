@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32\n\n• Lieux autour de moi : téléchargement plus rapide, dans un rayon de 15 km\n• Nouveau téléchargement à l'ouverture dès 8 km du dernier point",
-  "version": "1.32",
-  "notes": "• Lieux autour de moi : téléchargement plus rapide, dans un rayon de 15 km\n• Nouveau téléchargement à l'ouverture dès 8 km du dernier point",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.32/offline-1.32.apk"
+  "versionCode": 34,
+  "versionName": "1.33\n\n• Nouvelle rubrique « Autour de moi » : Risques autour de moi, Ressources autour de moi et Observatoire national\n• Risques : risques de la commune, sites SEVESO et installations classées, centrales nucléaires (Géorisques)\n• Ressources : eau, forêts, équipements et stations-service en rupture autour de vous\n• Observatoire : électricité, carburants, eau, vigilance météo et rappels alimentaires, en couleurs\n• Tout actualiser : date de la dernière réussite pour chaque ligne\n• Crises : consignes séisme, mouvement de terrain, rupture de barrage, accident nucléaire et radon\n• Outils classés par ordre alphabétique",
+  "version": "1.33",
+  "notes": "• Nouvelle rubrique « Autour de moi » : Risques autour de moi, Ressources autour de moi et Observatoire national\n• Risques : risques de la commune, sites SEVESO et installations classées, centrales nucléaires (Géorisques)\n• Ressources : eau, forêts, équipements et stations-service en rupture autour de vous\n• Observatoire : électricité, carburants, eau, vigilance météo et rappels alimentaires, en couleurs\n• Tout actualiser : date de la dernière réussite pour chaque ligne\n• Crises : consignes séisme, mouvement de terrain, rupture de barrage, accident nucléaire et radon\n• Outils classés par ordre alphabétique",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.33/offline-1.33.apk"
 }
