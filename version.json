@@ -1,5 +1,7 @@
 {
   "versionCode": 13,
-  "versionName": "1.12",
+  "versionName": "1.12\n\n• Nouvelle page Outils : lampe et SOS lumineux, sifflet, soleil et lune, distance de la foudre, ébullition de l'eau, niveau à bulle, podomètre, antennes-relais\n• Applications utiles : bouton Ouvrir pour les applications installées\n• Message de cause en cas d'échec d'installation d'une application",
+  "version": "1.12",
+  "notes": "• Nouvelle page Outils : lampe et SOS lumineux, sifflet, soleil et lune, distance de la foudre, ébullition de l'eau, niveau à bulle, podomètre, antennes-relais\n• Applications utiles : bouton Ouvrir pour les applications installées\n• Message de cause en cas d'échec d'installation d'une application",
   "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.12/offline-1.12.apk"
 }
