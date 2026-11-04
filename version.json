@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18\n\n• Trace : dénivelé corrigé avec le relief de l'IGN à la fin de la rando (connexion nécessaire), et bien plus fiable sans baromètre\n• Mesure : distance entre deux points validés au GPS (moyenne sur 10 s), direction et différence de hauteur\n• Partager l'application (menu ☰, À propos) : QR code, lien par SMS ou e-mail, application par Bluetooth ou Quick Share\n• Aller vers : rappel que la distance est à vol d'oiseau\n• Niveau à bulle : posé sur la tranche, le téléphone devient un niveau de maçon",
-  "version": "1.18",
-  "notes": "• Trace : dénivelé corrigé avec le relief de l'IGN à la fin de la rando (connexion nécessaire), et bien plus fiable sans baromètre\n• Mesure : distance entre deux points validés au GPS (moyenne sur 10 s), direction et différence de hauteur\n• Partager l'application (menu ☰, À propos) : QR code, lien par SMS ou e-mail, application par Bluetooth ou Quick Share\n• Aller vers : rappel que la distance est à vol d'oiseau\n• Niveau à bulle : posé sur la tranche, le téléphone devient un niveau de maçon",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.18/offline-1.18.apk"
+  "versionCode": 20,
+  "versionName": "1.19\n\n• Météo d'une ville : recherche dans le monde entier, villes favorites gardées hors ligne\n• Météo du trajet : météo tous les 2 à 20 km à l'heure de passage, en ligne droite ou le long d'une trace\n• Calendrier : rappels en notification (à l'heure, 15 min, 1 h avant ou la veille) et météo de chaque jour\n• Accueil : météo du moment sous la date",
+  "version": "1.19",
+  "notes": "• Météo d'une ville : recherche dans le monde entier, villes favorites gardées hors ligne\n• Météo du trajet : météo tous les 2 à 20 km à l'heure de passage, en ligne droite ou le long d'une trace\n• Calendrier : rappels en notification (à l'heure, 15 min, 1 h avant ou la veille) et météo de chaque jour\n• Accueil : météo du moment sous la date",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.19/offline-1.19.apk"
 }
