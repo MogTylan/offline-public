@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20\n\n• Tout actualiser : icône ⟳ en haut de l'accueil (verte avec du réseau, grise sans) et dans le menu ; météo, villes, taux de change, aide GPS, position et version d'un coup ; coche verte ou croix rouge pour chaque ligne\n• Menu À propos : Rechercher une mise à jour",
-  "version": "1.20",
-  "notes": "• Tout actualiser : icône ⟳ en haut de l'accueil (verte avec du réseau, grise sans) et dans le menu ; météo, villes, taux de change, aide GPS, position et version d'un coup ; coche verte ou croix rouge pour chaque ligne\n• Menu À propos : Rechercher une mise à jour",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.20/offline-1.20.apk"
+  "versionCode": 22,
+  "versionName": "1.21\n\n• Trace : nombre de pas compté pendant l'enregistrement, affiché en direct et dans le résumé\n• Trace : nom par défaut avec la date complète et l'heure de départ",
+  "version": "1.21",
+  "notes": "• Trace : nombre de pas compté pendant l'enregistrement, affiché en direct et dans le résumé\n• Trace : nom par défaut avec la date complète et l'heure de départ",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.21/offline-1.21.apk"
 }
