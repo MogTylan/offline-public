@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15\n\n• Morse : tableau, traduction texte ↔ morse, lecture en son ou à la lampe, entraînement à l'écoute\n• Langue des signes française : alphabet en photos, épeler un mot, entraînement\n• Rappel des applications conseillées : le bouton Choisir ouvre la liste pour installer celles que vous voulez\n• Trail Sense retirée des applications conseillées",
-  "version": "1.15",
-  "notes": "• Morse : tableau, traduction texte ↔ morse, lecture en son ou à la lampe, entraînement à l'écoute\n• Langue des signes française : alphabet en photos, épeler un mot, entraînement\n• Rappel des applications conseillées : le bouton Choisir ouvre la liste pour installer celles que vous voulez\n• Trail Sense retirée des applications conseillées",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.15/offline-1.15.apk"
+  "versionCode": 17,
+  "versionName": "1.16\n\n• Calendrier : modifier ou déplacer un événement (titre, date, heure) en le touchant\n• Tâches : modifier le texte, l'échéance ou la catégorie en touchant la tâche",
+  "version": "1.16",
+  "notes": "• Calendrier : modifier ou déplacer un événement (titre, date, heure) en le touchant\n• Tâches : modifier le texte, l'échéance ou la catégorie en touchant la tâche",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.16/offline-1.16.apk"
 }
