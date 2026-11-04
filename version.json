@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17\n\n• Trace : enregistrement GPS même écran éteint, distance, durée, dénivelé (baromètre), tracé et profil, résumé à la fin, historique, export GPX\n• Aller vers : flèche et distance restante vers un point, le départ ou l'arrivée d'une trace\n• Mes points : enregistrer sa position, des coordonnées ou une adresse ; adresse ↔ coordonnées GPS (France, connexion nécessaire)\n• Calculatrice\n• Notes : bouton Ajouter pour une nouvelle note, Enregistrer pour une note existante",
-  "version": "1.17",
-  "notes": "• Trace : enregistrement GPS même écran éteint, distance, durée, dénivelé (baromètre), tracé et profil, résumé à la fin, historique, export GPX\n• Aller vers : flèche et distance restante vers un point, le départ ou l'arrivée d'une trace\n• Mes points : enregistrer sa position, des coordonnées ou une adresse ; adresse ↔ coordonnées GPS (France, connexion nécessaire)\n• Calculatrice\n• Notes : bouton Ajouter pour une nouvelle note, Enregistrer pour une note existante",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.17/offline-1.17.apk"
+  "versionCode": 19,
+  "versionName": "1.18\n\n• Trace : dénivelé corrigé avec le relief de l'IGN à la fin de la rando (connexion nécessaire), et bien plus fiable sans baromètre\n• Mesure : distance entre deux points validés au GPS (moyenne sur 10 s), direction et différence de hauteur\n• Partager l'application (menu ☰, À propos) : QR code, lien par SMS ou e-mail, application par Bluetooth ou Quick Share\n• Aller vers : rappel que la distance est à vol d'oiseau\n• Niveau à bulle : posé sur la tranche, le téléphone devient un niveau de maçon",
+  "version": "1.18",
+  "notes": "• Trace : dénivelé corrigé avec le relief de l'IGN à la fin de la rando (connexion nécessaire), et bien plus fiable sans baromètre\n• Mesure : distance entre deux points validés au GPS (moyenne sur 10 s), direction et différence de hauteur\n• Partager l'application (menu ☰, À propos) : QR code, lien par SMS ou e-mail, application par Bluetooth ou Quick Share\n• Aller vers : rappel que la distance est à vol d'oiseau\n• Niveau à bulle : posé sur la tranche, le téléphone devient un niveau de maçon",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.18/offline-1.18.apk"
 }
