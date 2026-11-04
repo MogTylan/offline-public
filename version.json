@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13\n\n• Accueil personnalisable : tuile Modifier pour choisir et ordonner les accès directs ; tuiles plus petites\n• Nouveaux outils : Notes avec catégories, Tâches, Calendrier, Conversion d'unités et de monnaies, Satellites\n• Boussole : satellites utilisés par constellation (Galileo, GPS, GLONASS, BeiDou…)\n• Applications utiles : ajout de Premiers Secours de la Croix-Rouge ; un point signale les applications manquantes\n• Premier téléchargement automatique de la météo et des taux de change dès qu'une connexion est disponible, pour tout utiliser hors ligne",
-  "version": "1.13",
-  "notes": "• Accueil personnalisable : tuile Modifier pour choisir et ordonner les accès directs ; tuiles plus petites\n• Nouveaux outils : Notes avec catégories, Tâches, Calendrier, Conversion d'unités et de monnaies, Satellites\n• Boussole : satellites utilisés par constellation (Galileo, GPS, GLONASS, BeiDou…)\n• Applications utiles : ajout de Premiers Secours de la Croix-Rouge ; un point signale les applications manquantes\n• Premier téléchargement automatique de la météo et des taux de change dès qu'une connexion est disponible, pour tout utiliser hors ligne",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.13/offline-1.13.apk"
+  "versionCode": 15,
+  "versionName": "1.14\n\n• Mon PIMS : plan individuel de mise en sûreté à remplir dans l'app (foyer, coupures, mise à l'abri, évacuation, numéros d'urgence à appeler d'un appui)\n• Radio : station ici de votre département, fréquence à noter, accès à la radio FM du téléphone\n• Kit d'urgence complété selon le guide officiel « Tous responsables » ; consignes tempête et accident industriel\n• Rappel des applications conseillées manquantes, une fois par version",
+  "version": "1.14",
+  "notes": "• Mon PIMS : plan individuel de mise en sûreté à remplir dans l'app (foyer, coupures, mise à l'abri, évacuation, numéros d'urgence à appeler d'un appui)\n• Radio : station ici de votre département, fréquence à noter, accès à la radio FM du téléphone\n• Kit d'urgence complété selon le guide officiel « Tous responsables » ; consignes tempête et accident industriel\n• Rappel des applications conseillées manquantes, une fois par version",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.14/offline-1.14.apk"
 }
