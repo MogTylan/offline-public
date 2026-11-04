@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22\n\n• Icône ⟳ de l'accueil : passe au gris dès la perte du réseau (mode avion compris), revérifiée au retour dans l'app",
-  "version": "1.22",
-  "notes": "• Icône ⟳ de l'accueil : passe au gris dès la perte du réseau (mode avion compris), revérifiée au retour dans l'app",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.22/offline-1.22.apk"
+  "versionCode": 24,
+  "versionName": "1.23\n\n• Accueil : correction d'un blocage au démarrage introduit en 1.22 (tuiles et outils absents)",
+  "version": "1.23",
+  "notes": "• Accueil : correction d'un blocage au démarrage introduit en 1.22 (tuiles et outils absents)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.23/offline-1.23.apk"
 }
