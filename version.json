@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16\n\n• Calendrier : modifier ou déplacer un événement (titre, date, heure) en le touchant\n• Tâches : modifier le texte, l'échéance ou la catégorie en touchant la tâche",
-  "version": "1.16",
-  "notes": "• Calendrier : modifier ou déplacer un événement (titre, date, heure) en le touchant\n• Tâches : modifier le texte, l'échéance ou la catégorie en touchant la tâche",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.16/offline-1.16.apk"
+  "versionCode": 18,
+  "versionName": "1.17\n\n• Trace : enregistrement GPS même écran éteint, distance, durée, dénivelé (baromètre), tracé et profil, résumé à la fin, historique, export GPX\n• Aller vers : flèche et distance restante vers un point, le départ ou l'arrivée d'une trace\n• Mes points : enregistrer sa position, des coordonnées ou une adresse ; adresse ↔ coordonnées GPS (France, connexion nécessaire)\n• Calculatrice\n• Notes : bouton Ajouter pour une nouvelle note, Enregistrer pour une note existante",
+  "version": "1.17",
+  "notes": "• Trace : enregistrement GPS même écran éteint, distance, durée, dénivelé (baromètre), tracé et profil, résumé à la fin, historique, export GPX\n• Aller vers : flèche et distance restante vers un point, le départ ou l'arrivée d'une trace\n• Mes points : enregistrer sa position, des coordonnées ou une adresse ; adresse ↔ coordonnées GPS (France, connexion nécessaire)\n• Calculatrice\n• Notes : bouton Ajouter pour une nouvelle note, Enregistrer pour une note existante",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.17/offline-1.17.apk"
 }
