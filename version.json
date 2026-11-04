@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "1.30\n\n• Applications conseillées : LocalSend, Meshtastic, bitchat, Merlin Bird ID, Seek et SkyView Lite sont désormais reconnues quand elles sont installées",
-  "version": "1.30",
-  "notes": "• Applications conseillées : LocalSend, Meshtastic, bitchat, Merlin Bird ID, Seek et SkyView Lite sont désormais reconnues quand elles sont installées",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.30/offline-1.30.apk"
+  "versionCode": 32,
+  "versionName": "1.31\n\n• Menu : le mode d'emploi passe au premier niveau, sous Accueil\n• Tout actualiser quitte le menu ; il reste accessible par l'icône ⟳ de l'accueil",
+  "version": "1.31",
+  "notes": "• Menu : le mode d'emploi passe au premier niveau, sous Accueil\n• Tout actualiser quitte le menu ; il reste accessible par l'icône ⟳ de l'accueil",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.31/offline-1.31.apk"
 }
