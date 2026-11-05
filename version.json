@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "1.60\n\n• Observatoire, carburants : part des stations sans essence sur la tuile, dans le détail (courbe) et dans le niveau\n• Notifications de l'Observatoire dès la Vigilance (jaune), et « retour à la normale »",
-  "version": "1.60",
-  "notes": "• Observatoire, carburants : part des stations sans essence sur la tuile, dans le détail (courbe) et dans le niveau\n• Notifications de l'Observatoire dès la Vigilance (jaune), et « retour à la normale »",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.60/offline-1.60.apk"
+  "versionCode": 62,
+  "versionName": "1.61\n\n• Observatoire, météo : corrigé « Non disponible » quand le dernier bulletin de Météo-France n'a pas la carte des départements",
+  "version": "1.61",
+  "notes": "• Observatoire, météo : corrigé « Non disponible » quand le dernier bulletin de Météo-France n'a pas la carte des départements",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.61/offline-1.61.apk"
 }
