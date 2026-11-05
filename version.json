@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36\n\n• « Tout actualiser » s'appelle désormais « Le réseau »\n• Chaque ligne indique si elle attend Internet, attend le GPS ou télécharge, avec une icône de couleur ; sans réseau, elle part d'elle-même au retour de la connexion\n• Localisation coupée : détectée, avec un bouton pour l'activer ; la recherche reprend au retour\n• Icône de localisation en haut de chaque page (verte, orange en recherche, grise si coupée)\n• Bouton jour/nuit plus grand",
-  "version": "1.36",
-  "notes": "• « Tout actualiser » s'appelle désormais « Le réseau »\n• Chaque ligne indique si elle attend Internet, attend le GPS ou télécharge, avec une icône de couleur ; sans réseau, elle part d'elle-même au retour de la connexion\n• Localisation coupée : détectée, avec un bouton pour l'activer ; la recherche reprend au retour\n• Icône de localisation en haut de chaque page (verte, orange en recherche, grise si coupée)\n• Bouton jour/nuit plus grand",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.36/offline-1.36.apk"
+  "versionCode": 38,
+  "versionName": "1.37\n\n• Le réseau : lignes rangées en deux groupes, GPS et Internet\n• Météo de ma position : attend la localisation comme les autres lignes, au lieu d'échouer",
+  "version": "1.37",
+  "notes": "• Le réseau : lignes rangées en deux groupes, GPS et Internet\n• Météo de ma position : attend la localisation comme les autres lignes, au lieu d'échouer",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.37/offline-1.37.apk"
 }
