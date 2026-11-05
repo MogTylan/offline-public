@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.48\n\n• Trace : le retour (flèche du haut ou bouton du téléphone) quitte de nouveau la page, même après avoir enregistré ou supprimé une trace\n• Mesure : la page s'affiche de nouveau, et « Enregistrer A / B » n'apparaît qu'une fois la mesure faite",
-  "version": "1.48",
-  "notes": "• Trace : le retour (flèche du haut ou bouton du téléphone) quitte de nouveau la page, même après avoir enregistré ou supprimé une trace\n• Mesure : la page s'affiche de nouveau, et « Enregistrer A / B » n'apparaît qu'une fois la mesure faite",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.48/offline-1.48.apk"
+  "versionCode": 50,
+  "versionName": "1.49\n\n• Trace : « Enregistrer » confirme toujours (« Trace enregistrée », ou « Aucun point » si le GPS n'a rien capté) et ne peut plus fermer l'application en cas de second appui\n• Aller vers : même correction pour « Terminer et tracer vers ce lieu »",
+  "version": "1.49",
+  "notes": "• Trace : « Enregistrer » confirme toujours (« Trace enregistrée », ou « Aucun point » si le GPS n'a rien capté) et ne peut plus fermer l'application en cas de second appui\n• Aller vers : même correction pour « Terminer et tracer vers ce lieu »",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.49/offline-1.49.apk"
 }
