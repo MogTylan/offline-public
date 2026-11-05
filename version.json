@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "1.43\n\n• Observatoire : un appui sur une alerte ouvre sa page officielle dans un navigateur interne (arrêté de restriction d'eau, Vigicrues, vigilance Météo-France, Ecowatt, fiches RappelConso)",
-  "version": "1.43",
-  "notes": "• Observatoire : un appui sur une alerte ouvre sa page officielle dans un navigateur interne (arrêté de restriction d'eau, Vigicrues, vigilance Météo-France, Ecowatt, fiches RappelConso)",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.43/offline-1.43.apk"
+  "versionCode": 45,
+  "versionName": "1.44\n\n• Mode horizontal : l'accueil passe sur deux colonnes, l'heure et les pastilles à gauche, les tuiles à droite\n• Boussole à l'horizontale : la rose reste visible à gauche, le cap et les coordonnées à droite\n• Niveau à bulle, flèche d'Aller vers et QR code adaptés à la hauteur de l'écran",
+  "version": "1.44",
+  "notes": "• Mode horizontal : l'accueil passe sur deux colonnes, l'heure et les pastilles à gauche, les tuiles à droite\n• Boussole à l'horizontale : la rose reste visible à gauche, le cap et les coordonnées à droite\n• Niveau à bulle, flèche d'Aller vers et QR code adaptés à la hauteur de l'écran",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.44/offline-1.44.apk"
 }
