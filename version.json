@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "1.58\n\n• Première ouverture : demande d'autorisation de la position, puis proposition d'activer la localisation si elle est coupée",
-  "version": "1.58",
-  "notes": "• Première ouverture : demande d'autorisation de la position, puis proposition d'activer la localisation si elle est coupée",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.58/offline-1.58.apk"
+  "versionCode": 60,
+  "versionName": "1.59\n\n• Notifications : toutes commencent par « Offline · » (Observatoire, Trace, Mise à jour, rappels du calendrier)",
+  "version": "1.59",
+  "notes": "• Notifications : toutes commencent par « Offline · » (Observatoire, Trace, Mise à jour, rappels du calendrier)",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.59/offline-1.59.apk"
 }
