@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "1.57\n\n• Nouvelle adresse de téléchargement et de mise à jour (dépôt offline-public), nouveau QR code de partage",
-  "version": "1.57",
-  "notes": "• Nouvelle adresse de téléchargement et de mise à jour (dépôt offline-public), nouveau QR code de partage",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.57/offline-1.57.apk"
+  "versionCode": 59,
+  "versionName": "1.58\n\n• Première ouverture : demande d'autorisation de la position, puis proposition d'activer la localisation si elle est coupée",
+  "version": "1.58",
+  "notes": "• Première ouverture : demande d'autorisation de la position, puis proposition d'activer la localisation si elle est coupée",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.58/offline-1.58.apk"
 }
