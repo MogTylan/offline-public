@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41\n\n• Le réseau : lignes compactes, tout tient sur un écran ; l'âge de la dernière réussite s'affiche à droite (« il y a 2 min »)",
-  "version": "1.41",
-  "notes": "• Le réseau : lignes compactes, tout tient sur un écran ; l'âge de la dernière réussite s'affiche à droite (« il y a 2 min »)",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.41/offline-1.41.apk"
+  "versionCode": 43,
+  "versionName": "1.42\n\n• Manuel de survie rangé par priorité (règle des 3) : urgence vitale, se protéger, boire, manger, se mettre en sécurité, être secouru, tenir dans la durée\n• Sous chaque niveau du manuel, les outils qui servent ce besoin\n• Menu : Apprendre mène directement à chaque priorité ; rubriques d'outils nommées par des verbes (Se repérer, Prévoir, Communiquer, S'informer, Mesurer, S'organiser)",
+  "version": "1.42",
+  "notes": "• Manuel de survie rangé par priorité (règle des 3) : urgence vitale, se protéger, boire, manger, se mettre en sécurité, être secouru, tenir dans la durée\n• Sous chaque niveau du manuel, les outils qui servent ce besoin\n• Menu : Apprendre mène directement à chaque priorité ; rubriques d'outils nommées par des verbes (Se repérer, Prévoir, Communiquer, S'informer, Mesurer, S'organiser)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.42/offline-1.42.apk"
 }
