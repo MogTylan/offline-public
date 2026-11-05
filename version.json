@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.46\n\n• Carte : nouveau thème Établissements scolaires (école, collège, lycée, autre établissement, enseignement supérieur), à télécharger avec « Actualiser autour de moi »",
-  "version": "1.46",
-  "notes": "• Carte : nouveau thème Établissements scolaires (école, collège, lycée, autre établissement, enseignement supérieur), à télécharger avec « Actualiser autour de moi »",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.46/offline-1.46.apk"
+  "versionCode": 48,
+  "versionName": "1.47\n\n• Aller vers et Boussole : nouveau calcul du cap, juste que le téléphone soit à plat, redressé, incliné ou penché sur le côté (la flèche ne se retourne plus)\n• Accueil à l'horizontale : les tuiles restent sur la première page même avec des chapitres en favoris\n• Menu : le Mode d'emploi passe en bas, séparé par un trait, en bleu",
+  "version": "1.47",
+  "notes": "• Aller vers et Boussole : nouveau calcul du cap, juste que le téléphone soit à plat, redressé, incliné ou penché sur le côté (la flèche ne se retourne plus)\n• Accueil à l'horizontale : les tuiles restent sur la première page même avec des chapitres en favoris\n• Menu : le Mode d'emploi passe en bas, séparé par un trait, en bleu",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.47/offline-1.47.apk"
 }
