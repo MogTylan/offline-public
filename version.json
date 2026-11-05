@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "1.62\n\n• Mise à jour : recherche aussi au retour dans Offline si la dernière date de plus de 30 minutes",
-  "version": "1.62",
-  "notes": "• Mise à jour : recherche aussi au retour dans Offline si la dernière date de plus de 30 minutes",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.62/offline-1.62.apk"
+  "versionCode": 64,
+  "versionName": "1.63\n\n• Observatoire, météo : carte de France de la vigilance Météo-France, aujourd'hui et demain, dessinée hors ligne\n• Graphiques : échelle de valeurs et dates (Observatoire, baromètre, profil de la trace)",
+  "version": "1.63",
+  "notes": "• Observatoire, météo : carte de France de la vigilance Météo-France, aujourd'hui et demain, dessinée hors ligne\n• Graphiques : échelle de valeurs et dates (Observatoire, baromètre, profil de la trace)",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.63/offline-1.63.apk"
 }
