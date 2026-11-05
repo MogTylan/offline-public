@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37\n\n• Le réseau : lignes rangées en deux groupes, GPS et Internet\n• Météo de ma position : attend la localisation comme les autres lignes, au lieu d'échouer",
-  "version": "1.37",
-  "notes": "• Le réseau : lignes rangées en deux groupes, GPS et Internet\n• Météo de ma position : attend la localisation comme les autres lignes, au lieu d'échouer",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.37/offline-1.37.apk"
+  "versionCode": 39,
+  "versionName": "1.38\n\n• Nouvel accueil : pastilles (météo, soleil, batterie, état de la France, dernière synchronisation), alertes, agenda et tâches, en pages qui glissent\n• Deux rangées de quatre tuiles (7 accès directs au plus)\n• Outils regroupés en onglets : Points, Réception, Météo et ciel, Signaux, Calculs, Carnet (18 outils au lieu de 29)\n• Ressources (eau, nature, équipements, énergie, carburant) réunies dans la Carte\n• Menu et page Outils rangés en rubriques : Apprendre, Se repérer, Météo et ciel, Signaler, Autour de moi, Pratique, S'organiser",
+  "version": "1.38",
+  "notes": "• Nouvel accueil : pastilles (météo, soleil, batterie, état de la France, dernière synchronisation), alertes, agenda et tâches, en pages qui glissent\n• Deux rangées de quatre tuiles (7 accès directs au plus)\n• Outils regroupés en onglets : Points, Réception, Météo et ciel, Signaux, Calculs, Carnet (18 outils au lieu de 29)\n• Ressources (eau, nature, équipements, énergie, carburant) réunies dans la Carte\n• Menu et page Outils rangés en rubriques : Apprendre, Se repérer, Météo et ciel, Signaler, Autour de moi, Pratique, S'organiser",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.38/offline-1.38.apk"
 }
