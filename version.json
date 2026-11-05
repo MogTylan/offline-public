@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "1.64\n\n• Nouvel écran Urgence (bouton SOS de l'accueil, ou appui long sur l'icône) : appels 112, 15, 18, 17, 114, position à lire ou à envoyer par SMS, secours les plus proches, gestes, signaux, fiche médicale\n• Plan familial : nouvelle rubrique « Ma fiche médicale »",
-  "version": "1.64",
-  "notes": "• Nouvel écran Urgence (bouton SOS de l'accueil, ou appui long sur l'icône) : appels 112, 15, 18, 17, 114, position à lire ou à envoyer par SMS, secours les plus proches, gestes, signaux, fiche médicale\n• Plan familial : nouvelle rubrique « Ma fiche médicale »",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.64/offline-1.64.apk"
+  "versionCode": 66,
+  "versionName": "1.65\n\n• Nouvelle Encyclopédie de l'autonomie : plantes comestibles et toxiques, champignons, animaux, permaculture et potager, conservation des aliments, météo et ciel\n• Encyclopédie médicale : médicaments courants, médecines douces et remèdes traditionnels (plantes, homéopathie, aromathérapie)\n• Export en livre EPUB (manuel, encyclopédies, mode d'emploi), à lire avec Librera ou sur liseuse\n• PDF du mode d'emploi en plus gros caractères ; titre et bouton d'actualisation agrandis",
+  "version": "1.65",
+  "notes": "• Nouvelle Encyclopédie de l'autonomie : plantes comestibles et toxiques, champignons, animaux, permaculture et potager, conservation des aliments, météo et ciel\n• Encyclopédie médicale : médicaments courants, médecines douces et remèdes traditionnels (plantes, homéopathie, aromathérapie)\n• Export en livre EPUB (manuel, encyclopédies, mode d'emploi), à lire avec Librera ou sur liseuse\n• PDF du mode d'emploi en plus gros caractères ; titre et bouton d'actualisation agrandis",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.65/offline-1.65.apk"
 }
