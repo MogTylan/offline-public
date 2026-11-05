@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "1.59\n\n• Notifications : toutes commencent par « Offline · » (Observatoire, Trace, Mise à jour, rappels du calendrier)",
-  "version": "1.59",
-  "notes": "• Notifications : toutes commencent par « Offline · » (Observatoire, Trace, Mise à jour, rappels du calendrier)",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.59/offline-1.59.apk"
+  "versionCode": 61,
+  "versionName": "1.60\n\n• Observatoire, carburants : part des stations sans essence sur la tuile, dans le détail (courbe) et dans le niveau\n• Notifications de l'Observatoire dès la Vigilance (jaune), et « retour à la normale »",
+  "version": "1.60",
+  "notes": "• Observatoire, carburants : part des stations sans essence sur la tuile, dans le détail (courbe) et dans le niveau\n• Notifications de l'Observatoire dès la Vigilance (jaune), et « retour à la normale »",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.60/offline-1.60.apk"
 }
