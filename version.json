@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.42\n\n• Manuel de survie rangé par priorité (règle des 3) : urgence vitale, se protéger, boire, manger, se mettre en sécurité, être secouru, tenir dans la durée\n• Sous chaque niveau du manuel, les outils qui servent ce besoin\n• Menu : Apprendre mène directement à chaque priorité ; rubriques d'outils nommées par des verbes (Se repérer, Prévoir, Communiquer, S'informer, Mesurer, S'organiser)",
-  "version": "1.42",
-  "notes": "• Manuel de survie rangé par priorité (règle des 3) : urgence vitale, se protéger, boire, manger, se mettre en sécurité, être secouru, tenir dans la durée\n• Sous chaque niveau du manuel, les outils qui servent ce besoin\n• Menu : Apprendre mène directement à chaque priorité ; rubriques d'outils nommées par des verbes (Se repérer, Prévoir, Communiquer, S'informer, Mesurer, S'organiser)",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.42/offline-1.42.apk"
+  "versionCode": 44,
+  "versionName": "1.43\n\n• Observatoire : un appui sur une alerte ouvre sa page officielle dans un navigateur interne (arrêté de restriction d'eau, Vigicrues, vigilance Météo-France, Ecowatt, fiches RappelConso)",
+  "version": "1.43",
+  "notes": "• Observatoire : un appui sur une alerte ouvre sa page officielle dans un navigateur interne (arrêté de restriction d'eau, Vigicrues, vigilance Météo-France, Ecowatt, fiches RappelConso)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.43/offline-1.43.apk"
 }
