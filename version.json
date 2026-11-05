@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "1.50\n\n• Le réseau : bouton « Tout actualiser » ; ouvrir la page ne lance plus rien\n• Actualisation automatique au lancement, au retour d'internet ou de la localisation, et en quittant l'application (au plus une fois toutes les 10 min ; lieux et risques seulement s'ils datent de plus de 6 h)\n• La fenêtre « Nouvelle version disponible » ne s'affiche qu'une fois par lancement",
-  "version": "1.50",
-  "notes": "• Le réseau : bouton « Tout actualiser » ; ouvrir la page ne lance plus rien\n• Actualisation automatique au lancement, au retour d'internet ou de la localisation, et en quittant l'application (au plus une fois toutes les 10 min ; lieux et risques seulement s'ils datent de plus de 6 h)\n• La fenêtre « Nouvelle version disponible » ne s'affiche qu'une fois par lancement",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.50/offline-1.50.apk"
+  "versionCode": 52,
+  "versionName": "1.51\n\n• Le réseau : bouton « Tout actualiser » plus petit, la page tient sur l'écran",
+  "version": "1.51",
+  "notes": "• Le réseau : bouton « Tout actualiser » plus petit, la page tient sur l'écran",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.51/offline-1.51.apk"
 }
