@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "1.63\n\n• Observatoire, météo : carte de France de la vigilance Météo-France, aujourd'hui et demain, dessinée hors ligne\n• Graphiques : échelle de valeurs et dates (Observatoire, baromètre, profil de la trace)",
-  "version": "1.63",
-  "notes": "• Observatoire, météo : carte de France de la vigilance Météo-France, aujourd'hui et demain, dessinée hors ligne\n• Graphiques : échelle de valeurs et dates (Observatoire, baromètre, profil de la trace)",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.63/offline-1.63.apk"
+  "versionCode": 65,
+  "versionName": "1.64\n\n• Nouvel écran Urgence (bouton SOS de l'accueil, ou appui long sur l'icône) : appels 112, 15, 18, 17, 114, position à lire ou à envoyer par SMS, secours les plus proches, gestes, signaux, fiche médicale\n• Plan familial : nouvelle rubrique « Ma fiche médicale »",
+  "version": "1.64",
+  "notes": "• Nouvel écran Urgence (bouton SOS de l'accueil, ou appui long sur l'icône) : appels 112, 15, 18, 17, 114, position à lire ou à envoyer par SMS, secours les plus proches, gestes, signaux, fiche médicale\n• Plan familial : nouvelle rubrique « Ma fiche médicale »",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.64/offline-1.64.apk"
 }
