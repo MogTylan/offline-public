@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "1.54\n\n• Sauvegarde (À propos) : export de toutes tes données vers un fichier (Drive, téléphone…), import sur un autre téléphone, sauvegarde automatique à l'ouverture et à la fermeture dans un dossier choisi\n• Podomètre : Démarrer / Arrêter, liste des sessions, historique par jour sur 30 jours\n• Gares : les arrêts de train (comme Châbons) apparaissent\n• Carte : les stations-service sont dans Carburant",
-  "version": "1.54",
-  "notes": "• Sauvegarde (À propos) : export de toutes tes données vers un fichier (Drive, téléphone…), import sur un autre téléphone, sauvegarde automatique à l'ouverture et à la fermeture dans un dossier choisi\n• Podomètre : Démarrer / Arrêter, liste des sessions, historique par jour sur 30 jours\n• Gares : les arrêts de train (comme Châbons) apparaissent\n• Carte : les stations-service sont dans Carburant",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.54/offline-1.54.apk"
+  "versionCode": 56,
+  "versionName": "1.55\n\n• Mode d'emploi : bouton « Exporter en PDF »\n• Encyclopédie médicale : catégories repliables\n• Carte : Ravitaillement réuni dans Alimentation (supermarchés, boulangeries, marchés, fermes, moulins)\n• Sauvegarde : date et heure dans le nom des fichiers, nouvelle sauvegarde seulement si les données ont changé\n• « Mon PIMS » devient « Plan familial de mise en sûreté » ; « Applications utiles » devient « Applications tierces utiles »\n• Fenêtre de bienvenue plus claire",
+  "version": "1.55",
+  "notes": "• Mode d'emploi : bouton « Exporter en PDF »\n• Encyclopédie médicale : catégories repliables\n• Carte : Ravitaillement réuni dans Alimentation (supermarchés, boulangeries, marchés, fermes, moulins)\n• Sauvegarde : date et heure dans le nom des fichiers, nouvelle sauvegarde seulement si les données ont changé\n• « Mon PIMS » devient « Plan familial de mise en sûreté » ; « Applications utiles » devient « Applications tierces utiles »\n• Fenêtre de bienvenue plus claire",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.55/offline-1.55.apk"
 }
