@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "1.52\n\n• Observatoire : veille toutes les heures, même Offline fermé (électricité, carburants, restrictions d'eau, vigilance météo du département)\n• Notification quand un domaine passe en orange ou en rouge, et « fin d'alerte » quand il redescend ; un appui ouvre l'Observatoire\n• Alertes crues notifiées à l'actualisation de l'Observatoire",
-  "version": "1.52",
-  "notes": "• Observatoire : veille toutes les heures, même Offline fermé (électricité, carburants, restrictions d'eau, vigilance météo du département)\n• Notification quand un domaine passe en orange ou en rouge, et « fin d'alerte » quand il redescend ; un appui ouvre l'Observatoire\n• Alertes crues notifiées à l'actualisation de l'Observatoire",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.52/offline-1.52.apk"
+  "versionCode": 54,
+  "versionName": "1.53\n\n• Ressources : déchetteries, bricolage et quincailleries, magasins agricoles, scieries, sport-chasse-pêche, garages, salles des fêtes, gymnases, lieux de culte, bureaux de poste, distributeurs, vétérinaires, moulins\n• Carte et Ressources : rubriques repliables\n• Outils : « Se repérer » et « S'informer » réunis dans « Autour de moi » ; l'Observatoire national passe dans « Prévoir »\n• « Risques autour de moi » devient « Risques »",
+  "version": "1.53",
+  "notes": "• Ressources : déchetteries, bricolage et quincailleries, magasins agricoles, scieries, sport-chasse-pêche, garages, salles des fêtes, gymnases, lieux de culte, bureaux de poste, distributeurs, vétérinaires, moulins\n• Carte et Ressources : rubriques repliables\n• Outils : « Se repérer » et « S'informer » réunis dans « Autour de moi » ; l'Observatoire national passe dans « Prévoir »\n• « Risques autour de moi » devient « Risques »",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.53/offline-1.53.apk"
 }
