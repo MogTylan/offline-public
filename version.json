@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44\n\n• Mode horizontal : l'accueil passe sur deux colonnes, l'heure et les pastilles à gauche, les tuiles à droite\n• Boussole à l'horizontale : la rose reste visible à gauche, le cap et les coordonnées à droite\n• Niveau à bulle, flèche d'Aller vers et QR code adaptés à la hauteur de l'écran",
-  "version": "1.44",
-  "notes": "• Mode horizontal : l'accueil passe sur deux colonnes, l'heure et les pastilles à gauche, les tuiles à droite\n• Boussole à l'horizontale : la rose reste visible à gauche, le cap et les coordonnées à droite\n• Niveau à bulle, flèche d'Aller vers et QR code adaptés à la hauteur de l'écran",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.44/offline-1.44.apk"
+  "versionCode": 46,
+  "versionName": "1.45\n\n• Aller vers et Boussole : le cap reste juste quand on tient le téléphone redressé en marchant (la flèche pouvait pointer du mauvais côté)\n• Accueil à l'horizontale : alerte, recherche et tuiles tiennent sur une seule page, même sur un écran bas",
+  "version": "1.45",
+  "notes": "• Aller vers et Boussole : le cap reste juste quand on tient le téléphone redressé en marchant (la flèche pouvait pointer du mauvais côté)\n• Accueil à l'horizontale : alerte, recherche et tuiles tiennent sur une seule page, même sur un écran bas",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.45/offline-1.45.apk"
 }
