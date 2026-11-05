@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38\n\n• Nouvel accueil : pastilles (météo, soleil, batterie, état de la France, dernière synchronisation), alertes, agenda et tâches, en pages qui glissent\n• Deux rangées de quatre tuiles (7 accès directs au plus)\n• Outils regroupés en onglets : Points, Réception, Météo et ciel, Signaux, Calculs, Carnet (18 outils au lieu de 29)\n• Ressources (eau, nature, équipements, énergie, carburant) réunies dans la Carte\n• Menu et page Outils rangés en rubriques : Apprendre, Se repérer, Météo et ciel, Signaler, Autour de moi, Pratique, S'organiser",
-  "version": "1.38",
-  "notes": "• Nouvel accueil : pastilles (météo, soleil, batterie, état de la France, dernière synchronisation), alertes, agenda et tâches, en pages qui glissent\n• Deux rangées de quatre tuiles (7 accès directs au plus)\n• Outils regroupés en onglets : Points, Réception, Météo et ciel, Signaux, Calculs, Carnet (18 outils au lieu de 29)\n• Ressources (eau, nature, équipements, énergie, carburant) réunies dans la Carte\n• Menu et page Outils rangés en rubriques : Apprendre, Se repérer, Météo et ciel, Signaler, Autour de moi, Pratique, S'organiser",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.38/offline-1.38.apk"
+  "versionCode": 40,
+  "versionName": "1.39\n\n• Accueil : alertes, agenda et tâches restent sur la même page que les tuiles tant que tout tient sur l'écran ; les pages qui glissent n'apparaissent qu'en cas de débordement",
+  "version": "1.39",
+  "notes": "• Accueil : alertes, agenda et tâches restent sur la même page que les tuiles tant que tout tient sur l'écran ; les pages qui glissent n'apparaissent qu'en cas de débordement",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.39/offline-1.39.apk"
 }
