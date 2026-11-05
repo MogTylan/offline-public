@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39\n\n• Accueil : alertes, agenda et tâches restent sur la même page que les tuiles tant que tout tient sur l'écran ; les pages qui glissent n'apparaissent qu'en cas de débordement",
-  "version": "1.39",
-  "notes": "• Accueil : alertes, agenda et tâches restent sur la même page que les tuiles tant que tout tient sur l'écran ; les pages qui glissent n'apparaissent qu'en cas de débordement",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.39/offline-1.39.apk"
+  "versionCode": 41,
+  "versionName": "1.40\n\n• Menu : ouvrir une rubrique referme les autres",
+  "version": "1.40",
+  "notes": "• Menu : ouvrir une rubrique referme les autres",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.40/offline-1.40.apk"
 }
