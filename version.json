@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.53\n\n• Ressources : déchetteries, bricolage et quincailleries, magasins agricoles, scieries, sport-chasse-pêche, garages, salles des fêtes, gymnases, lieux de culte, bureaux de poste, distributeurs, vétérinaires, moulins\n• Carte et Ressources : rubriques repliables\n• Outils : « Se repérer » et « S'informer » réunis dans « Autour de moi » ; l'Observatoire national passe dans « Prévoir »\n• « Risques autour de moi » devient « Risques »",
-  "version": "1.53",
-  "notes": "• Ressources : déchetteries, bricolage et quincailleries, magasins agricoles, scieries, sport-chasse-pêche, garages, salles des fêtes, gymnases, lieux de culte, bureaux de poste, distributeurs, vétérinaires, moulins\n• Carte et Ressources : rubriques repliables\n• Outils : « Se repérer » et « S'informer » réunis dans « Autour de moi » ; l'Observatoire national passe dans « Prévoir »\n• « Risques autour de moi » devient « Risques »",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.53/offline-1.53.apk"
+  "versionCode": 55,
+  "versionName": "1.54\n\n• Sauvegarde (À propos) : export de toutes tes données vers un fichier (Drive, téléphone…), import sur un autre téléphone, sauvegarde automatique à l'ouverture et à la fermeture dans un dossier choisi\n• Podomètre : Démarrer / Arrêter, liste des sessions, historique par jour sur 30 jours\n• Gares : les arrêts de train (comme Châbons) apparaissent\n• Carte : les stations-service sont dans Carburant",
+  "version": "1.54",
+  "notes": "• Sauvegarde (À propos) : export de toutes tes données vers un fichier (Drive, téléphone…), import sur un autre téléphone, sauvegarde automatique à l'ouverture et à la fermeture dans un dossier choisi\n• Podomètre : Démarrer / Arrêter, liste des sessions, historique par jour sur 30 jours\n• Gares : les arrêts de train (comme Châbons) apparaissent\n• Carte : les stations-service sont dans Carburant",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.54/offline-1.54.apk"
 }
