@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "1.61\n\n• Observatoire, météo : corrigé « Non disponible » quand le dernier bulletin de Météo-France n'a pas la carte des départements",
-  "version": "1.61",
-  "notes": "• Observatoire, météo : corrigé « Non disponible » quand le dernier bulletin de Météo-France n'a pas la carte des départements",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.61/offline-1.61.apk"
+  "versionCode": 63,
+  "versionName": "1.62\n\n• Mise à jour : recherche aussi au retour dans Offline si la dernière date de plus de 30 minutes",
+  "version": "1.62",
+  "notes": "• Mise à jour : recherche aussi au retour dans Offline si la dernière date de plus de 30 minutes",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.62/offline-1.62.apk"
 }
