@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40\n\n• Menu : ouvrir une rubrique referme les autres",
-  "version": "1.40",
-  "notes": "• Menu : ouvrir une rubrique referme les autres",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.40/offline-1.40.apk"
+  "versionCode": 42,
+  "versionName": "1.41\n\n• Le réseau : lignes compactes, tout tient sur un écran ; l'âge de la dernière réussite s'affiche à droite (« il y a 2 min »)",
+  "version": "1.41",
+  "notes": "• Le réseau : lignes compactes, tout tient sur un écran ; l'âge de la dernière réussite s'affiche à droite (« il y a 2 min »)",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.41/offline-1.41.apk"
 }
