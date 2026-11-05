@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "1.45\n\n• Aller vers et Boussole : le cap reste juste quand on tient le téléphone redressé en marchant (la flèche pouvait pointer du mauvais côté)\n• Accueil à l'horizontale : alerte, recherche et tuiles tiennent sur une seule page, même sur un écran bas",
-  "version": "1.45",
-  "notes": "• Aller vers et Boussole : le cap reste juste quand on tient le téléphone redressé en marchant (la flèche pouvait pointer du mauvais côté)\n• Accueil à l'horizontale : alerte, recherche et tuiles tiennent sur une seule page, même sur un écran bas",
-  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.45/offline-1.45.apk"
+  "versionCode": 47,
+  "versionName": "1.46\n\n• Carte : nouveau thème Établissements scolaires (école, collège, lycée, autre établissement, enseignement supérieur), à télécharger avec « Actualiser autour de moi »",
+  "version": "1.46",
+  "notes": "• Carte : nouveau thème Établissements scolaires (école, collège, lycée, autre établissement, enseignement supérieur), à télécharger avec « Actualiser autour de moi »",
+  "apk": "https://github.com/MogTylan/offline-versions/releases/download/v1.46/offline-1.46.apk"
 }
