@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "1.70\n\n• Aller vers : toute la page tient sur l'écran, sans défilement, en portrait comme à l'horizontale\n• Barre d'onglets plus fine en haut des outils",
-  "version": "1.70",
-  "notes": "• Aller vers : toute la page tient sur l'écran, sans défilement, en portrait comme à l'horizontale\n• Barre d'onglets plus fine en haut des outils",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.70/offline-1.70.apk"
+  "versionCode": 72,
+  "versionName": "1.71\n\n• Plein écran à l'horizontale : les barres du téléphone disparaissent (un glissement depuis le bord les rappelle)",
+  "version": "1.71",
+  "notes": "• Plein écran à l'horizontale : les barres du téléphone disparaissent (un glissement depuis le bord les rappelle)",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.71/offline-1.71.apk"
 }
