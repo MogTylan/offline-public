@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "1.71\n\n• Plein écran à l'horizontale : les barres du téléphone disparaissent (un glissement depuis le bord les rappelle)",
-  "version": "1.71",
-  "notes": "• Plein écran à l'horizontale : les barres du téléphone disparaissent (un glissement depuis le bord les rappelle)",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.71/offline-1.71.apk"
+  "versionCode": 73,
+  "versionName": "1.72\n\n• « Le réseau » s'appelle maintenant Synchronisation, et « Réception » devient Réseaux\n• Synchronisation : la ligne Version d'Offline affiche la version installée (« Offline est à jour · v1.72 »)",
+  "version": "1.72",
+  "notes": "• « Le réseau » s'appelle maintenant Synchronisation, et « Réception » devient Réseaux\n• Synchronisation : la ligne Version d'Offline affiche la version installée (« Offline est à jour · v1.72 »)",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.72/offline-1.72.apk"
 }
