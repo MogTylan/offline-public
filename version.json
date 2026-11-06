@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "1.66\n\n• Le manuel de survie devient l'Encyclopédie de survie\n• Menu Apprendre : les trois encyclopédies se déplient, avec leurs priorités ou catégories ; un appui ouvre directement la catégorie",
-  "version": "1.66",
-  "notes": "• Le manuel de survie devient l'Encyclopédie de survie\n• Menu Apprendre : les trois encyclopédies se déplient, avec leurs priorités ou catégories ; un appui ouvre directement la catégorie",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.66/offline-1.66.apk"
+  "versionCode": 68,
+  "versionName": "1.67\n\n• Aller vers : en marchant ou en roulant, la flèche suit la direction de déplacement du GPS (fini les erreurs de boussole, même en voiture) ; elle ne se déforme plus\n• Boussole : cap fiable téléphone redressé ou sur la tranche",
+  "version": "1.67",
+  "notes": "• Aller vers : en marchant ou en roulant, la flèche suit la direction de déplacement du GPS (fini les erreurs de boussole, même en voiture) ; elle ne se déforme plus\n• Boussole : cap fiable téléphone redressé ou sur la tranche",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.67/offline-1.67.apk"
 }
