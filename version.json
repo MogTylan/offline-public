@@ -1,7 +1,7 @@
 {
-  "versionCode": 66,
-  "versionName": "1.65\n\n• Nouvelle Encyclopédie de l'autonomie : plantes comestibles et toxiques, champignons, animaux, permaculture et potager, conservation des aliments, météo et ciel\n• Encyclopédie médicale : médicaments courants, médecines douces et remèdes traditionnels (plantes, homéopathie, aromathérapie)\n• Export en livre EPUB (manuel, encyclopédies, mode d'emploi), à lire avec Librera ou sur liseuse\n• PDF du mode d'emploi en plus gros caractères ; titre et bouton d'actualisation agrandis",
-  "version": "1.65",
-  "notes": "• Nouvelle Encyclopédie de l'autonomie : plantes comestibles et toxiques, champignons, animaux, permaculture et potager, conservation des aliments, météo et ciel\n• Encyclopédie médicale : médicaments courants, médecines douces et remèdes traditionnels (plantes, homéopathie, aromathérapie)\n• Export en livre EPUB (manuel, encyclopédies, mode d'emploi), à lire avec Librera ou sur liseuse\n• PDF du mode d'emploi en plus gros caractères ; titre et bouton d'actualisation agrandis",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.65/offline-1.65.apk"
+  "versionCode": 67,
+  "versionName": "1.66\n\n• Le manuel de survie devient l'Encyclopédie de survie\n• Menu Apprendre : les trois encyclopédies se déplient, avec leurs priorités ou catégories ; un appui ouvre directement la catégorie",
+  "version": "1.66",
+  "notes": "• Le manuel de survie devient l'Encyclopédie de survie\n• Menu Apprendre : les trois encyclopédies se déplient, avec leurs priorités ou catégories ; un appui ouvre directement la catégorie",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.66/offline-1.66.apk"
 }
