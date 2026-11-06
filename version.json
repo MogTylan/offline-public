@@ -1,7 +1,7 @@
 {
-  "versionCode": 74,
-  "versionName": "1.73\n\n• Suivre la trace : refaire le chemin d'une trace (ou à l'envers), flèche qui suit les virages, km restants, alerte vibrante si l'on sort de la trace, même écran éteint\n• « Aller vers » devient Navigation, avec montée (m/h), pente, dénivelé et temps de marche estimé\n• Trace : montée et pente pendant l'enregistrement",
-  "version": "1.73",
-  "notes": "• Suivre la trace : refaire le chemin d'une trace (ou à l'envers), flèche qui suit les virages, km restants, alerte vibrante si l'on sort de la trace, même écran éteint\n• « Aller vers » devient Navigation, avec montée (m/h), pente, dénivelé et temps de marche estimé\n• Trace : montée et pente pendant l'enregistrement",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.73/offline-1.73.apk"
+  "versionCode": 75,
+  "versionName": "1.74\n\n• Nouvel outil Navigation : onglets Points et Traces ; chaque trace propose Suivre, À l'envers et Fiche\n• L'écran de guidage (rose, flèche, indicateurs) s'ouvre depuis un point, une trace ou un lieu de la Carte\n• Outil Mesure retiré",
+  "version": "1.74",
+  "notes": "• Nouvel outil Navigation : onglets Points et Traces ; chaque trace propose Suivre, À l'envers et Fiche\n• L'écran de guidage (rose, flèche, indicateurs) s'ouvre depuis un point, une trace ou un lieu de la Carte\n• Outil Mesure retiré",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.74/offline-1.74.apk"
 }
