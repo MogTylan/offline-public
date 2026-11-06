@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "1.69\n\n• Accueil : les domaines de l'Observatoire en Vigilance (carburants, eau…) ont aussi leur bandeau, pas seulement en Alerte",
-  "version": "1.69",
-  "notes": "• Accueil : les domaines de l'Observatoire en Vigilance (carburants, eau…) ont aussi leur bandeau, pas seulement en Alerte",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.69/offline-1.69.apk"
+  "versionCode": 71,
+  "versionName": "1.70\n\n• Aller vers : toute la page tient sur l'écran, sans défilement, en portrait comme à l'horizontale\n• Barre d'onglets plus fine en haut des outils",
+  "version": "1.70",
+  "notes": "• Aller vers : toute la page tient sur l'écran, sans défilement, en portrait comme à l'horizontale\n• Barre d'onglets plus fine en haut des outils",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.70/offline-1.70.apk"
 }
