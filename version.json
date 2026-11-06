@@ -1,7 +1,7 @@
 {
-  "versionCode": 73,
-  "versionName": "1.72\n\n• « Le réseau » s'appelle maintenant Synchronisation, et « Réception » devient Réseaux\n• Synchronisation : la ligne Version d'Offline affiche la version installée (« Offline est à jour · v1.72 »)",
-  "version": "1.72",
-  "notes": "• « Le réseau » s'appelle maintenant Synchronisation, et « Réception » devient Réseaux\n• Synchronisation : la ligne Version d'Offline affiche la version installée (« Offline est à jour · v1.72 »)",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.72/offline-1.72.apk"
+  "versionCode": 74,
+  "versionName": "1.73\n\n• Suivre la trace : refaire le chemin d'une trace (ou à l'envers), flèche qui suit les virages, km restants, alerte vibrante si l'on sort de la trace, même écran éteint\n• « Aller vers » devient Navigation, avec montée (m/h), pente, dénivelé et temps de marche estimé\n• Trace : montée et pente pendant l'enregistrement",
+  "version": "1.73",
+  "notes": "• Suivre la trace : refaire le chemin d'une trace (ou à l'envers), flèche qui suit les virages, km restants, alerte vibrante si l'on sort de la trace, même écran éteint\n• « Aller vers » devient Navigation, avec montée (m/h), pente, dénivelé et temps de marche estimé\n• Trace : montée et pente pendant l'enregistrement",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.73/offline-1.73.apk"
 }
