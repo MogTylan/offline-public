@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "1.68\n\n• Aller vers : rose de boussole avec la flèche au centre et la destination marquée sur le cadran\n• Vitesse, heure d'arrivée estimée, cap, altitude, coucher du soleil et position sous la distance\n• Mode horizontal adapté (cadran à gauche, informations à droite), pratique en voiture",
-  "version": "1.68",
-  "notes": "• Aller vers : rose de boussole avec la flèche au centre et la destination marquée sur le cadran\n• Vitesse, heure d'arrivée estimée, cap, altitude, coucher du soleil et position sous la distance\n• Mode horizontal adapté (cadran à gauche, informations à droite), pratique en voiture",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.68/offline-1.68.apk"
+  "versionCode": 70,
+  "versionName": "1.69\n\n• Accueil : les domaines de l'Observatoire en Vigilance (carburants, eau…) ont aussi leur bandeau, pas seulement en Alerte",
+  "version": "1.69",
+  "notes": "• Accueil : les domaines de l'Observatoire en Vigilance (carburants, eau…) ont aussi leur bandeau, pas seulement en Alerte",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.69/offline-1.69.apk"
 }
