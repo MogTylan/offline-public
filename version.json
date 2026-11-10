@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "1.85\n\n• Carte : altitude écrite sur les courbes de niveau",
-  "version": "1.85",
-  "notes": "• Carte : altitude écrite sur les courbes de niveau",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.85/offline-1.85.apk"
+  "versionCode": 87,
+  "versionName": "1.86\n\n• Carte : lieux par famille, couleur et icône\r\n• Voir sur la carte ouvre la carte d'Offline, CoMaps sert aux itinéraires\r\n• Carte : vue du ciel nette au zoom fort",
+  "version": "1.86",
+  "notes": "• Carte : lieux par famille, couleur et icône\r\n• Voir sur la carte ouvre la carte d'Offline, CoMaps sert aux itinéraires\r\n• Carte : vue du ciel nette au zoom fort",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.86/offline-1.86.apk"
 }
