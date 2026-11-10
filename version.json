@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "1.76\n\n• Icône de synchronisation verte, orange ou rouge selon ce qui a été synchronisé\r\n• Dictée des notes : reconnaissance sur le téléphone, pour fonctionner sans Internet\r\n• Nouvel outil Carburants : stations les plus proches, les moins chères, favorites\r\n• Sonomètre et veille sonore réunis ; Luxmètre à part",
-  "version": "1.76",
-  "notes": "• Icône de synchronisation verte, orange ou rouge selon ce qui a été synchronisé\r\n• Dictée des notes : reconnaissance sur le téléphone, pour fonctionner sans Internet\r\n• Nouvel outil Carburants : stations les plus proches, les moins chères, favorites\r\n• Sonomètre et veille sonore réunis ; Luxmètre à part",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.76/offline-1.76.apk"
+  "versionCode": 78,
+  "versionName": "1.77\n\n• Carburants : choix du carburant plus clair, prix en grand ; prix inclus dans la Synchronisation\r\n• Icône réseau : accès au mode avion",
+  "version": "1.77",
+  "notes": "• Carburants : choix du carburant plus clair, prix en grand ; prix inclus dans la Synchronisation\r\n• Icône réseau : accès au mode avion",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.77/offline-1.77.apk"
 }
