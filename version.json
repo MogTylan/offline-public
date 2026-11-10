@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "1.79\n\n• Carburants : page plus compacte, seul le prix du carburant choisi est affiché",
-  "version": "1.79",
-  "notes": "• Carburants : page plus compacte, seul le prix du carburant choisi est affiché",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.79/offline-1.79.apk"
+  "versionCode": 81,
+  "versionName": "1.80\n\n• Carte : nouvel espace en plein écran avec les cartes IGN, téléchargeables par calque (essai sur l'Isère)\n• L'ancienne page Carte devient Lieux autour de moi",
+  "version": "1.80",
+  "notes": "• Carte : nouvel espace en plein écran avec les cartes IGN, téléchargeables par calque (essai sur l'Isère)\n• L'ancienne page Carte devient Lieux autour de moi",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.80/offline-1.80.apk"
 }
