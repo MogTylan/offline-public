@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "1.74\n\n• Nouvel outil Navigation : onglets Points et Traces ; chaque trace propose Suivre, À l'envers et Fiche\n• L'écran de guidage (rose, flèche, indicateurs) s'ouvre depuis un point, une trace ou un lieu de la Carte\n• Outil Mesure retiré",
-  "version": "1.74",
-  "notes": "• Nouvel outil Navigation : onglets Points et Traces ; chaque trace propose Suivre, À l'envers et Fiche\n• L'écran de guidage (rose, flèche, indicateurs) s'ouvre depuis un point, une trace ou un lieu de la Carte\n• Outil Mesure retiré",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.74/offline-1.74.apk"
+  "versionCode": 76,
+  "versionName": "1.75\n\n• Navigation : choix à pied, à vélo ou en voiture (heure d'arrivée adaptée), D+ et D− en temps réel, points modifiables\r\n• Carte : catégories de la plus proche à la plus lointaine, adresse ou commune des lieux, prix des carburants, bouton CoMaps\r\n• Barre du haut : icône accueil, icône réseau verte ou rouge ; onglets au glissement du doigt\r\n• Notes à la voix (Dicter) ; Urgence : secours classés par distance\r\n• Nouvel outil Capteurs : sonomètre, luxmètre, veille sonore ; titre des pages en haut de la page\r\n• Navigation et Suivre la trace : l'écran reste allumé",
+  "version": "1.75",
+  "notes": "• Navigation : choix à pied, à vélo ou en voiture (heure d'arrivée adaptée), D+ et D− en temps réel, points modifiables\r\n• Carte : catégories de la plus proche à la plus lointaine, adresse ou commune des lieux, prix des carburants, bouton CoMaps\r\n• Barre du haut : icône accueil, icône réseau verte ou rouge ; onglets au glissement du doigt\r\n• Notes à la voix (Dicter) ; Urgence : secours classés par distance\r\n• Nouvel outil Capteurs : sonomètre, luxmètre, veille sonore ; titre des pages en haut de la page\r\n• Navigation et Suivre la trace : l'écran reste allumé",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.75/offline-1.75.apk"
 }
