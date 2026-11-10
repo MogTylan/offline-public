@@ -1,7 +1,7 @@
 {
-  "versionCode": 83,
-  "versionName": "1.82\n\n• Carte : modes Jour, Nuit et Auto selon la luminosité",
-  "version": "1.82",
-  "notes": "• Carte : modes Jour, Nuit et Auto selon la luminosité",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.82/offline-1.82.apk"
+  "versionCode": 84,
+  "versionName": "1.83\n\n• Carte : suit votre position et tourne avec votre direction\r\n• Carte : recherche de lieux et d'adresses sans réseau\r\n• Carte : la France et ses départements en dézoomant\r\n• Carte du département proposée au premier lancement\r\n• Cartes deux fois plus légères (Isère : 245 Mo)\r\n• Synchronisation : ligne Cartes",
+  "version": "1.83",
+  "notes": "• Carte : suit votre position et tourne avec votre direction\r\n• Carte : recherche de lieux et d'adresses sans réseau\r\n• Carte : la France et ses départements en dézoomant\r\n• Carte du département proposée au premier lancement\r\n• Cartes deux fois plus légères (Isère : 245 Mo)\r\n• Synchronisation : ligne Cartes",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.83/offline-1.83.apk"
 }
