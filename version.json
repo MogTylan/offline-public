@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "1.81\n\n• Carte : rose des vents, échelle et position affichée dès l'ouverture",
-  "version": "1.81",
-  "notes": "• Carte : rose des vents, échelle et position affichée dès l'ouverture",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.81/offline-1.81.apk"
+  "versionCode": 83,
+  "versionName": "1.82\n\n• Carte : modes Jour, Nuit et Auto selon la luminosité",
+  "version": "1.82",
+  "notes": "• Carte : modes Jour, Nuit et Auto selon la luminosité",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.82/offline-1.82.apk"
 }
