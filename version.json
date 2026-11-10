@@ -1,7 +1,7 @@
 {
-  "versionCode": 85,
-  "versionName": "1.84\n\n• Carte : rotation à deux doigts\r\n• Carte : France découpée en départements, seuls les téléchargés s'affichent\r\n• Carte : vue du ciel corrigée",
-  "version": "1.84",
-  "notes": "• Carte : rotation à deux doigts\r\n• Carte : France découpée en départements, seuls les téléchargés s'affichent\r\n• Carte : vue du ciel corrigée",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.84/offline-1.84.apk"
+  "versionCode": 86,
+  "versionName": "1.85\n\n• Carte : altitude écrite sur les courbes de niveau",
+  "version": "1.85",
+  "notes": "• Carte : altitude écrite sur les courbes de niveau",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.85/offline-1.85.apk"
 }
