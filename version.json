@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "1.80\n\n• Carte : nouvel espace en plein écran avec les cartes IGN, téléchargeables par calque (essai sur l'Isère)\n• L'ancienne page Carte devient Lieux autour de moi",
-  "version": "1.80",
-  "notes": "• Carte : nouvel espace en plein écran avec les cartes IGN, téléchargeables par calque (essai sur l'Isère)\n• L'ancienne page Carte devient Lieux autour de moi",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.80/offline-1.80.apk"
+  "versionCode": 82,
+  "versionName": "1.81\n\n• Carte : rose des vents, échelle et position affichée dès l'ouverture",
+  "version": "1.81",
+  "notes": "• Carte : rose des vents, échelle et position affichée dès l'ouverture",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.81/offline-1.81.apk"
 }
