@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "1.78\n\n• Carburants : listes plus courtes, 10 stations par onglet\r\n• Carburants : ruptures en rouge, bandeau d'état autour de moi, lien avec l'Observatoire et la Carte",
-  "version": "1.78",
-  "notes": "• Carburants : listes plus courtes, 10 stations par onglet\r\n• Carburants : ruptures en rouge, bandeau d'état autour de moi, lien avec l'Observatoire et la Carte",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.78/offline-1.78.apk"
+  "versionCode": 80,
+  "versionName": "1.79\n\n• Carburants : page plus compacte, seul le prix du carburant choisi est affiché",
+  "version": "1.79",
+  "notes": "• Carburants : page plus compacte, seul le prix du carburant choisi est affiché",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.79/offline-1.79.apk"
 }
