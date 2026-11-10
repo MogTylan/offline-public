@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "1.83\n\n• Carte : suit votre position et tourne avec votre direction\r\n• Carte : recherche de lieux et d'adresses sans réseau\r\n• Carte : la France et ses départements en dézoomant\r\n• Carte du département proposée au premier lancement\r\n• Cartes deux fois plus légères (Isère : 245 Mo)\r\n• Synchronisation : ligne Cartes",
-  "version": "1.83",
-  "notes": "• Carte : suit votre position et tourne avec votre direction\r\n• Carte : recherche de lieux et d'adresses sans réseau\r\n• Carte : la France et ses départements en dézoomant\r\n• Carte du département proposée au premier lancement\r\n• Cartes deux fois plus légères (Isère : 245 Mo)\r\n• Synchronisation : ligne Cartes",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.83/offline-1.83.apk"
+  "versionCode": 85,
+  "versionName": "1.84\n\n• Carte : rotation à deux doigts\r\n• Carte : France découpée en départements, seuls les téléchargés s'affichent\r\n• Carte : vue du ciel corrigée",
+  "version": "1.84",
+  "notes": "• Carte : rotation à deux doigts\r\n• Carte : France découpée en départements, seuls les téléchargés s'affichent\r\n• Carte : vue du ciel corrigée",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.84/offline-1.84.apk"
 }
