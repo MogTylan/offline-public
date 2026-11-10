@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "1.77\n\n• Carburants : choix du carburant plus clair, prix en grand ; prix inclus dans la Synchronisation\r\n• Icône réseau : accès au mode avion",
-  "version": "1.77",
-  "notes": "• Carburants : choix du carburant plus clair, prix en grand ; prix inclus dans la Synchronisation\r\n• Icône réseau : accès au mode avion",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.77/offline-1.77.apk"
+  "versionCode": 79,
+  "versionName": "1.78\n\n• Carburants : listes plus courtes, 10 stations par onglet\r\n• Carburants : ruptures en rouge, bandeau d'état autour de moi, lien avec l'Observatoire et la Carte",
+  "version": "1.78",
+  "notes": "• Carburants : listes plus courtes, 10 stations par onglet\r\n• Carburants : ruptures en rouge, bandeau d'état autour de moi, lien avec l'Observatoire et la Carte",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.78/offline-1.78.apk"
 }
