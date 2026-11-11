@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "2.0\n\n• Nouvelle navigation : Accueil, Bibliothèque, Carte, Outils et SOS toujours en bas\n• Nouvelle allure : thèmes clair, sombre et nuit rouge, police très lisible\n• Accueil sur une page, recherche en tête\n• Bibliothèque : Survie, Santé et Autonomie, recherche par encyclopédie\n• Écran Cartes refait : espace, pause, reprise, mises à jour\n• Localisation et réseau vérifiés à chaque ouverture\n• Android 15 : affichage bord à bord et geste retour animé",
-  "version": "2.0",
-  "notes": "• Nouvelle navigation : Accueil, Bibliothèque, Carte, Outils et SOS toujours en bas\n• Nouvelle allure : thèmes clair, sombre et nuit rouge, police très lisible\n• Accueil sur une page, recherche en tête\n• Bibliothèque : Survie, Santé et Autonomie, recherche par encyclopédie\n• Écran Cartes refait : espace, pause, reprise, mises à jour\n• Localisation et réseau vérifiés à chaque ouverture\n• Android 15 : affichage bord à bord et geste retour animé",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0/offline-2.0.apk"
+  "versionCode": 89,
+  "versionName": "2.0.1\n\n• Carte : « Chercher ici » trouve les lieux là où vous regardez\n• Carte : même affichage depuis Risques, Lieux et Mes points\n• SOS : les lieux les plus proches sont retrouvés autour de vous\n• Nœuds : à quoi sert chaque nœud et comment le faire\n• Sommaire déroulant dans chaque chapitre et dans le mode d'emploi\n• Panneau d'état : Position, Réseau et Synchronisation ouvrent leurs réglages\n• Carburants : une couleur par carburant",
+  "version": "2.0.1",
+  "notes": "• Carte : « Chercher ici » trouve les lieux là où vous regardez\n• Carte : même affichage depuis Risques, Lieux et Mes points\n• SOS : les lieux les plus proches sont retrouvés autour de vous\n• Nœuds : à quoi sert chaque nœud et comment le faire\n• Sommaire déroulant dans chaque chapitre et dans le mode d'emploi\n• Panneau d'état : Position, Réseau et Synchronisation ouvrent leurs réglages\n• Carburants : une couleur par carburant",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.1/offline-2.0.1.apk"
 }
