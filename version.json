@@ -1,7 +1,7 @@
 {
-  "versionCode": 89,
-  "versionName": "2.0.1\n\n• Carte : « Chercher ici » trouve les lieux là où vous regardez\n• Carte : même affichage depuis Risques, Lieux et Mes points\n• SOS : les lieux les plus proches sont retrouvés autour de vous\n• Nœuds : à quoi sert chaque nœud et comment le faire\n• Sommaire déroulant dans chaque chapitre et dans le mode d'emploi\n• Panneau d'état : Position, Réseau et Synchronisation ouvrent leurs réglages\n• Carburants : une couleur par carburant",
-  "version": "2.0.1",
-  "notes": "• Carte : « Chercher ici » trouve les lieux là où vous regardez\n• Carte : même affichage depuis Risques, Lieux et Mes points\n• SOS : les lieux les plus proches sont retrouvés autour de vous\n• Nœuds : à quoi sert chaque nœud et comment le faire\n• Sommaire déroulant dans chaque chapitre et dans le mode d'emploi\n• Panneau d'état : Position, Réseau et Synchronisation ouvrent leurs réglages\n• Carburants : une couleur par carburant",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.1/offline-2.0.1.apk"
+  "versionCode": 90,
+  "versionName": "2.0.2\n\n• SOS au centre de la barre du bas\r\n• Accueil : 8 raccourcis au choix parmi tous les outils, à modifier avec le crayon\r\n• Barre de navigation du téléphone de retour, aux couleurs d'Offline\r\n• Carte : « Aller » affiche votre position, l'arrivée et votre trace",
+  "version": "2.0.2",
+  "notes": "• SOS au centre de la barre du bas\r\n• Accueil : 8 raccourcis au choix parmi tous les outils, à modifier avec le crayon\r\n• Barre de navigation du téléphone de retour, aux couleurs d'Offline\r\n• Carte : « Aller » affiche votre position, l'arrivée et votre trace",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.2/offline-2.0.2.apk"
 }
