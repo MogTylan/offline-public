@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "1.86\n\n• Carte : lieux par famille, couleur et icône\r\n• Voir sur la carte ouvre la carte d'Offline, CoMaps sert aux itinéraires\r\n• Carte : vue du ciel nette au zoom fort",
-  "version": "1.86",
-  "notes": "• Carte : lieux par famille, couleur et icône\r\n• Voir sur la carte ouvre la carte d'Offline, CoMaps sert aux itinéraires\r\n• Carte : vue du ciel nette au zoom fort",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v1.86/offline-1.86.apk"
+  "versionCode": 88,
+  "versionName": "2.0\n\n• Nouvelle navigation : Accueil, Bibliothèque, Carte, Outils et SOS toujours en bas\n• Nouvelle allure : thèmes clair, sombre et nuit rouge, police très lisible\n• Accueil sur une page, recherche en tête\n• Bibliothèque : Survie, Santé et Autonomie, recherche par encyclopédie\n• Écran Cartes refait : espace, pause, reprise, mises à jour\n• Localisation et réseau vérifiés à chaque ouverture\n• Android 15 : affichage bord à bord et geste retour animé",
+  "version": "2.0",
+  "notes": "• Nouvelle navigation : Accueil, Bibliothèque, Carte, Outils et SOS toujours en bas\n• Nouvelle allure : thèmes clair, sombre et nuit rouge, police très lisible\n• Accueil sur une page, recherche en tête\n• Bibliothèque : Survie, Santé et Autonomie, recherche par encyclopédie\n• Écran Cartes refait : espace, pause, reprise, mises à jour\n• Localisation et réseau vérifiés à chaque ouverture\n• Android 15 : affichage bord à bord et geste retour animé",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0/offline-2.0.apk"
 }
