@@ -1,7 +1,7 @@
 {
-  "versionCode": 107,
-  "versionName": "2.0.19\n\n• Cartes : tout Rhône-Alpes est disponible (Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie)",
-  "version": "2.0.19",
-  "notes": "• Cartes : tout Rhône-Alpes est disponible (Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie)",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.19/offline-2.0.19.apk"
+  "versionCode": 108,
+  "versionName": "2.0.20\n\n• Cartes : 10 départements de plus (Aisne, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardennes, Ariège, Aube, Aude, Aveyron), 21 en tout",
+  "version": "2.0.20",
+  "notes": "• Cartes : 10 départements de plus (Aisne, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardennes, Ariège, Aube, Aude, Aveyron), 21 en tout",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.20/offline-2.0.20.apk"
 }
