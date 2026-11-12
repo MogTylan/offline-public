@@ -1,7 +1,7 @@
 {
-  "versionCode": 97,
-  "versionName": "2.0.9\n\n• Plein écran : un glissement depuis le haut ou le bas fait revenir les barres du téléphone ; l'heure est dans la barre d'Offline\n• Traces : la carte IGN en fond, sur la fiche et pendant l'enregistrement\n• Réglages sur un seul écran, engrenage redessiné",
-  "version": "2.0.9",
-  "notes": "• Plein écran : un glissement depuis le haut ou le bas fait revenir les barres du téléphone ; l'heure est dans la barre d'Offline\n• Traces : la carte IGN en fond, sur la fiche et pendant l'enregistrement\n• Réglages sur un seul écran, engrenage redessiné",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.9/offline-2.0.9.apk"
+  "versionCode": 98,
+  "versionName": "2.0.10\n\n• Carte : bouton « + » pour démarrer une trace, marquer un point, afficher Mes points ou Mes traces, la boussole, la météo, envoyer sa position\n• Météo du trajet et Veille nationale sur un seul écran\n• Barre du haut sans marge pour l'appareil photo, barres un peu plus hautes",
+  "version": "2.0.10",
+  "notes": "• Carte : bouton « + » pour démarrer une trace, marquer un point, afficher Mes points ou Mes traces, la boussole, la météo, envoyer sa position\n• Météo du trajet et Veille nationale sur un seul écran\n• Barre du haut sans marge pour l'appareil photo, barres un peu plus hautes",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.10/offline-2.0.10.apk"
 }
