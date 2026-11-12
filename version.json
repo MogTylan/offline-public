@@ -1,7 +1,7 @@
 {
-  "versionCode": 98,
-  "versionName": "2.0.10\n\n• Carte : bouton « + » pour démarrer une trace, marquer un point, afficher Mes points ou Mes traces, la boussole, la météo, envoyer sa position\n• Météo du trajet et Veille nationale sur un seul écran\n• Barre du haut sans marge pour l'appareil photo, barres un peu plus hautes",
-  "version": "2.0.10",
-  "notes": "• Carte : bouton « + » pour démarrer une trace, marquer un point, afficher Mes points ou Mes traces, la boussole, la météo, envoyer sa position\n• Météo du trajet et Veille nationale sur un seul écran\n• Barre du haut sans marge pour l'appareil photo, barres un peu plus hautes",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.10/offline-2.0.10.apk"
+  "versionCode": 99,
+  "versionName": "2.0.11\n\n• Carte : le bouton « + » affiche la liste de Mes points ; « Me signaler » ouvre Signaux\n• Morse devient un outil à part, dans Communiquer",
+  "version": "2.0.11",
+  "notes": "• Carte : le bouton « + » affiche la liste de Mes points ; « Me signaler » ouvre Signaux\n• Morse devient un outil à part, dans Communiquer",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.11/offline-2.0.11.apk"
 }
