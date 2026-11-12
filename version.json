@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "2.0.12\n\n• Météo du trajet : un curseur règle l'écart entre deux points, de 1 à 30 km",
-  "version": "2.0.12",
-  "notes": "• Météo du trajet : un curseur règle l'écart entre deux points, de 1 à 30 km",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.12/offline-2.0.12.apk"
+  "versionCode": 101,
+  "versionName": "2.0.13\n\n• Cartes : le Territoire de Belfort rejoint l'Isère ; les autres départements suivront\n• Cartes plus légères (Plan −25 %), Vue du ciel plus nette ; les cartes installées se mettent à jour d'elles-mêmes\n• Les îles d'un département s'affichent avec sa carte",
+  "version": "2.0.13",
+  "notes": "• Cartes : le Territoire de Belfort rejoint l'Isère ; les autres départements suivront\n• Cartes plus légères (Plan −25 %), Vue du ciel plus nette ; les cartes installées se mettent à jour d'elles-mêmes\n• Les îles d'un département s'affichent avec sa carte",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.13/offline-2.0.13.apk"
 }
