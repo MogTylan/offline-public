@@ -1,7 +1,7 @@
 {
-  "versionCode": 95,
-  "versionName": "2.0.7\n\n• Thème clair orange, barres du haut et du bas plus fines\n• Accueil plus aéré ; tuiles « + » pour ajouter un raccourci, appui long pour modifier",
-  "version": "2.0.7",
-  "notes": "• Thème clair orange, barres du haut et du bas plus fines\n• Accueil plus aéré ; tuiles « + » pour ajouter un raccourci, appui long pour modifier",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.7/offline-2.0.7.apk"
+  "versionCode": 96,
+  "versionName": "2.0.8\n\n• Thème clair : barres du téléphone en blanc, seules les barres d'Offline restent orange",
+  "version": "2.0.8",
+  "notes": "• Thème clair : barres du téléphone en blanc, seules les barres d'Offline restent orange",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.8/offline-2.0.8.apk"
 }
