@@ -1,7 +1,7 @@
 {
-  "versionCode": 102,
-  "versionName": "2.0.14\n\n• Fiches : l'étoile des favoris reste visible sur la barre orange",
-  "version": "2.0.14",
-  "notes": "• Fiches : l'étoile des favoris reste visible sur la barre orange",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.14/offline-2.0.14.apk"
+  "versionCode": 103,
+  "versionName": "2.0.15\n\n• Fiches : les favoris s'ajoutent et se retirent par le menu ⋮, la barre n'a plus d'icône au milieu",
+  "version": "2.0.15",
+  "notes": "• Fiches : les favoris s'ajoutent et se retirent par le menu ⋮, la barre n'a plus d'icône au milieu",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.15/offline-2.0.15.apk"
 }
