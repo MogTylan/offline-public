@@ -1,7 +1,7 @@
 {
-  "versionCode": 92,
-  "versionName": "2.0.4\n\n• Accueil : la Veille nationale en 5 icônes à la couleur de leur niveau, détail d'un appui\n• Météo : le prochain changement de temps (pluie, soleil, neige, orage, rafales…) sur l'accueil et en tête de la page Météo\n• Puces plus sobres dans toute l'application\n• Synchronisation : boutons de poids retirés",
-  "version": "2.0.4",
-  "notes": "• Accueil : la Veille nationale en 5 icônes à la couleur de leur niveau, détail d'un appui\n• Météo : le prochain changement de temps (pluie, soleil, neige, orage, rafales…) sur l'accueil et en tête de la page Météo\n• Puces plus sobres dans toute l'application\n• Synchronisation : boutons de poids retirés",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.4/offline-2.0.4.apk"
+  "versionCode": 93,
+  "versionName": "2.0.5\n\n• Fond blanc et texte gris, plus doux à lire\n• Police plus fine (Atkinson Hyperlegible Next)\n• Accueil : une flèche indique qu'il reste du contenu plus bas\n• Bouton d'état : seules les couleurs des icônes indiquent l'état",
+  "version": "2.0.5",
+  "notes": "• Fond blanc et texte gris, plus doux à lire\n• Police plus fine (Atkinson Hyperlegible Next)\n• Accueil : une flèche indique qu'il reste du contenu plus bas\n• Bouton d'état : seules les couleurs des icônes indiquent l'état",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.5/offline-2.0.5.apk"
 }
