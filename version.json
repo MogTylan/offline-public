@@ -1,7 +1,7 @@
 {
-  "versionCode": 103,
-  "versionName": "2.0.15\n\n• Fiches : les favoris s'ajoutent et se retirent par le menu ⋮, la barre n'a plus d'icône au milieu",
-  "version": "2.0.15",
-  "notes": "• Fiches : les favoris s'ajoutent et se retirent par le menu ⋮, la barre n'a plus d'icône au milieu",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.15/offline-2.0.15.apk"
+  "versionCode": 104,
+  "versionName": "2.0.16\n\n• Barre du haut : le nom Offline à côté du retour sur toutes les pages, et la barre revient sur la carte\n• Cartes : les 4 départements les plus proches, puis la liste complète avec une recherche\n• Plus aucune icône au milieu de la barre : l'aide rejoint le menu ⋮ quand il y en a un",
+  "version": "2.0.16",
+  "notes": "• Barre du haut : le nom Offline à côté du retour sur toutes les pages, et la barre revient sur la carte\n• Cartes : les 4 départements les plus proches, puis la liste complète avec une recherche\n• Plus aucune icône au milieu de la barre : l'aide rejoint le menu ⋮ quand il y en a un",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.16/offline-2.0.16.apk"
 }
