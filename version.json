@@ -1,7 +1,7 @@
 {
-  "versionCode": 105,
-  "versionName": "2.0.17\n\n• Carte : en mode Auto, jour ou nuit selon le thème de l'application\n• Le menu des calques passe au-dessus de la loupe ; logo mieux placé ; la carte citée dans le message de bienvenue",
-  "version": "2.0.17",
-  "notes": "• Carte : en mode Auto, jour ou nuit selon le thème de l'application\n• Le menu des calques passe au-dessus de la loupe ; logo mieux placé ; la carte citée dans le message de bienvenue",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.17/offline-2.0.17.apk"
+  "versionCode": 106,
+  "versionName": "2.0.18\n\n• Cartes : la Haute-Loire et le Vaucluse sont disponibles (la Vue du ciel viendra plus tard)\n• Un calque pas encore publié n'est plus proposé",
+  "version": "2.0.18",
+  "notes": "• Cartes : la Haute-Loire et le Vaucluse sont disponibles (la Vue du ciel viendra plus tard)\n• Un calque pas encore publié n'est plus proposé",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.18/offline-2.0.18.apk"
 }
