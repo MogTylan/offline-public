@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "2.0.18\n\n• Cartes : la Haute-Loire et le Vaucluse sont disponibles (la Vue du ciel viendra plus tard)\n• Un calque pas encore publié n'est plus proposé",
-  "version": "2.0.18",
-  "notes": "• Cartes : la Haute-Loire et le Vaucluse sont disponibles (la Vue du ciel viendra plus tard)\n• Un calque pas encore publié n'est plus proposé",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.18/offline-2.0.18.apk"
+  "versionCode": 107,
+  "versionName": "2.0.19\n\n• Cartes : tout Rhône-Alpes est disponible (Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie)",
+  "version": "2.0.19",
+  "notes": "• Cartes : tout Rhône-Alpes est disponible (Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie)",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.19/offline-2.0.19.apk"
 }
