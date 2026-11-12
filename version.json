@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "2.0.5\n\n• Fond blanc et texte gris, plus doux à lire\n• Police plus fine (Atkinson Hyperlegible Next)\n• Accueil : une flèche indique qu'il reste du contenu plus bas\n• Bouton d'état : seules les couleurs des icônes indiquent l'état",
-  "version": "2.0.5",
-  "notes": "• Fond blanc et texte gris, plus doux à lire\n• Police plus fine (Atkinson Hyperlegible Next)\n• Accueil : une flèche indique qu'il reste du contenu plus bas\n• Bouton d'état : seules les couleurs des icônes indiquent l'état",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.5/offline-2.0.5.apk"
+  "versionCode": 94,
+  "versionName": "2.0.6\n\n• Notifications météo : pluie dans les 3 heures, fin de la pluie, orage, neige, verglas, rafales\n• Réglages › Notifications : activer ou couper chaque thème",
+  "version": "2.0.6",
+  "notes": "• Notifications météo : pluie dans les 3 heures, fin de la pluie, orage, neige, verglas, rafales\n• Réglages › Notifications : activer ou couper chaque thème",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.6/offline-2.0.6.apk"
 }
