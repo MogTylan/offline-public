@@ -1,7 +1,7 @@
 {
-  "versionCode": 99,
-  "versionName": "2.0.11\n\n• Carte : le bouton « + » affiche la liste de Mes points ; « Me signaler » ouvre Signaux\n• Morse devient un outil à part, dans Communiquer",
-  "version": "2.0.11",
-  "notes": "• Carte : le bouton « + » affiche la liste de Mes points ; « Me signaler » ouvre Signaux\n• Morse devient un outil à part, dans Communiquer",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.11/offline-2.0.11.apk"
+  "versionCode": 100,
+  "versionName": "2.0.12\n\n• Météo du trajet : un curseur règle l'écart entre deux points, de 1 à 30 km",
+  "version": "2.0.12",
+  "notes": "• Météo du trajet : un curseur règle l'écart entre deux points, de 1 à 30 km",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.12/offline-2.0.12.apk"
 }
