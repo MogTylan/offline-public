@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "2.0.20\n\n• Cartes : 10 départements de plus (Aisne, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardennes, Ariège, Aube, Aude, Aveyron), 21 en tout",
-  "version": "2.0.20",
-  "notes": "• Cartes : 10 départements de plus (Aisne, Allier, Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ardennes, Ariège, Aube, Aude, Aveyron), 21 en tout",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.20/offline-2.0.20.apk"
+  "versionCode": 109,
+  "versionName": "2.0.21\n\n• Cartes : Mes cartes et Disponibles en deux listes déroulantes, une ligne par département, avec une recherche",
+  "version": "2.0.21",
+  "notes": "• Cartes : Mes cartes et Disponibles en deux listes déroulantes, une ligne par département, avec une recherche",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.21/offline-2.0.21.apk"
 }
