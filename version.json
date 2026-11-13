@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "2.0.23\n\n• Carte : « Marquer ce point » enregistre le lieu cherché quand il est affiché, sinon votre position\n• Le voile du bouton « + » ne recouvre plus la barre du haut",
-  "version": "2.0.23",
-  "notes": "• Carte : « Marquer ce point » enregistre le lieu cherché quand il est affiché, sinon votre position\n• Le voile du bouton « + » ne recouvre plus la barre du haut",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.23/offline-2.0.23.apk"
+  "versionCode": 112,
+  "versionName": "2.0.24\n\n• Carte : « Marquer ce point » affiche une croix au centre pour placer le point avec précision\n• L'étoile qui apparaissait dans la barre de la carte est retirée",
+  "version": "2.0.24",
+  "notes": "• Carte : « Marquer ce point » affiche une croix au centre pour placer le point avec précision\n• L'étoile qui apparaissait dans la barre de la carte est retirée",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.24/offline-2.0.24.apk"
 }
