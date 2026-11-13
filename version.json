@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "2.0.24\n\n• Carte : « Marquer ce point » affiche une croix au centre pour placer le point avec précision\n• L'étoile qui apparaissait dans la barre de la carte est retirée",
-  "version": "2.0.24",
-  "notes": "• Carte : « Marquer ce point » affiche une croix au centre pour placer le point avec précision\n• L'étoile qui apparaissait dans la barre de la carte est retirée",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.24/offline-2.0.24.apk"
+  "versionCode": 113,
+  "versionName": "2.0.25\n\n• Outils : le Calendrier devient un outil à part, et une tuile mène aux Applications conseillées",
+  "version": "2.0.25",
+  "notes": "• Outils : le Calendrier devient un outil à part, et une tuile mène aux Applications conseillées",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.25/offline-2.0.25.apk"
 }
