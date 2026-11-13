@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "2.0.25\n\n• Outils : le Calendrier devient un outil à part, et une tuile mène aux Applications conseillées",
-  "version": "2.0.25",
-  "notes": "• Outils : le Calendrier devient un outil à part, et une tuile mène aux Applications conseillées",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.25/offline-2.0.25.apk"
+  "versionCode": 114,
+  "versionName": "2.0.26\n\n• Encyclopédie : Briar et bitchat présentés ensemble, portée du Bluetooth corrigée\n• Applications conseillées : Briar ajoutée",
+  "version": "2.0.26",
+  "notes": "• Encyclopédie : Briar et bitchat présentés ensemble, portée du Bluetooth corrigée\n• Applications conseillées : Briar ajoutée",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.26/offline-2.0.26.apk"
 }
