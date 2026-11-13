@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "2.0.22\n\n• Carte : plus de grands triangles vides quand plusieurs départements voisins sont installés",
-  "version": "2.0.22",
-  "notes": "• Carte : plus de grands triangles vides quand plusieurs départements voisins sont installés",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.22/offline-2.0.22.apk"
+  "versionCode": 111,
+  "versionName": "2.0.23\n\n• Carte : « Marquer ce point » enregistre le lieu cherché quand il est affiché, sinon votre position\n• Le voile du bouton « + » ne recouvre plus la barre du haut",
+  "version": "2.0.23",
+  "notes": "• Carte : « Marquer ce point » enregistre le lieu cherché quand il est affiché, sinon votre position\n• Le voile du bouton « + » ne recouvre plus la barre du haut",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.23/offline-2.0.23.apk"
 }
