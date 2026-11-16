@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "2.0.29\n\n• Traduction : téléchargement des langues corrigé, espagnol et allemand ajoutés, choix libre des deux langues\n• Synchronisation : ligne Langues, et un appui sur une ligne la resynchronise",
-  "version": "2.0.29",
-  "notes": "• Traduction : téléchargement des langues corrigé, espagnol et allemand ajoutés, choix libre des deux langues\n• Synchronisation : ligne Langues, et un appui sur une ligne la resynchronise",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.29/offline-2.0.29.apk"
+  "versionCode": 118,
+  "versionName": "2.0.30\n\n• Traduction : le moteur démarre dans l'application (il échouait à charger une de ses parties)",
+  "version": "2.0.30",
+  "notes": "• Traduction : le moteur démarre dans l'application (il échouait à charger une de ses parties)",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.30/offline-2.0.30.apk"
 }
