@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "2.0.26\n\n• Encyclopédie : Briar et bitchat présentés ensemble, portée du Bluetooth corrigée\n• Applications conseillées : Briar ajoutée",
-  "version": "2.0.26",
-  "notes": "• Encyclopédie : Briar et bitchat présentés ensemble, portée du Bluetooth corrigée\n• Applications conseillées : Briar ajoutée",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.26/offline-2.0.26.apk"
+  "versionCode": 115,
+  "versionName": "2.0.27\n\n• Cartes : les 96 départements de métropole sont disponibles (la Vue du ciel viendra plus tard)\n• Météo et vigilance météo reliées dans les deux sens\n• Choix des raccourcis : plus de doublon, plus de tuile Outils ; Bitchat avec une majuscule ; captures du mode d'emploi refaites",
+  "version": "2.0.27",
+  "notes": "• Cartes : les 96 départements de métropole sont disponibles (la Vue du ciel viendra plus tard)\n• Météo et vigilance météo reliées dans les deux sens\n• Choix des raccourcis : plus de doublon, plus de tuile Outils ; Bitchat avec une majuscule ; captures du mode d'emploi refaites",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.27/offline-2.0.27.apk"
 }
