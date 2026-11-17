@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "2.0.30\n\n• Traduction : le moteur démarre dans l'application (il échouait à charger une de ses parties)",
-  "version": "2.0.30",
-  "notes": "• Traduction : le moteur démarre dans l'application (il échouait à charger une de ses parties)",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.30/offline-2.0.30.apk"
+  "versionCode": 120,
+  "versionName": "2.0.32\n\n• Traduction : lecture du texte d'une photo ou d'une image de la galerie, sans réseau\n• Carte : chemins, routes et noms restent affichés en zoom fort\n• Carte : la trace en cours s'y affiche d'elle-même\n• Carte de l'Isère jusqu'au zoom 16 (test) : noms des rues, tracés plus fins\n• Version affichée au démarrage",
+  "version": "2.0.32",
+  "notes": "• Traduction : lecture du texte d'une photo ou d'une image de la galerie, sans réseau\n• Carte : chemins, routes et noms restent affichés en zoom fort\n• Carte : la trace en cours s'y affiche d'elle-même\n• Carte de l'Isère jusqu'au zoom 16 (test) : noms des rues, tracés plus fins\n• Version affichée au démarrage",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.32/offline-2.0.32.apk"
 }
