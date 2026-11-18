@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "2.0.32\n\n• Traduction : lecture du texte d'une photo ou d'une image de la galerie, sans réseau\n• Carte : chemins, routes et noms restent affichés en zoom fort\n• Carte : la trace en cours s'y affiche d'elle-même\n• Carte de l'Isère jusqu'au zoom 16 (test) : noms des rues, tracés plus fins\n• Version affichée au démarrage",
-  "version": "2.0.32",
-  "notes": "• Traduction : lecture du texte d'une photo ou d'une image de la galerie, sans réseau\n• Carte : chemins, routes et noms restent affichés en zoom fort\n• Carte : la trace en cours s'y affiche d'elle-même\n• Carte de l'Isère jusqu'au zoom 16 (test) : noms des rues, tracés plus fins\n• Version affichée au démarrage",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.32/offline-2.0.32.apk"
+  "versionCode": 121,
+  "versionName": "2.0.33\n\n• Carte : tous les départements jusqu'au zoom 15, avec les noms des rues",
+  "version": "2.0.33",
+  "notes": "• Carte : tous les départements jusqu'au zoom 15, avec les noms des rues",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.33/offline-2.0.33.apk"
 }
