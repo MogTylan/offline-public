@@ -1,7 +1,7 @@
 {
-  "versionCode": 121,
-  "versionName": "2.0.33\n\n• Carte : tous les départements jusqu'au zoom 15, avec les noms des rues",
-  "version": "2.0.33",
-  "notes": "• Carte : tous les départements jusqu'au zoom 15, avec les noms des rues",
-  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.33/offline-2.0.33.apk"
+  "versionCode": 122,
+  "versionName": "2.0.34\n\n• Carte : s'ouvre sur une position envoyée par une autre application (CoMaps, Google Maps…)\n• Téléphone couché : plein écran sur toutes les pages, un appui fait revenir les barres\n• Barres du téléphone toujours affichées, à la couleur d'Offline",
+  "version": "2.0.34",
+  "notes": "• Carte : s'ouvre sur une position envoyée par une autre application (CoMaps, Google Maps…)\n• Téléphone couché : plein écran sur toutes les pages, un appui fait revenir les barres\n• Barres du téléphone toujours affichées, à la couleur d'Offline",
+  "apk": "https://github.com/MogTylan/offline-public/releases/download/v2.0.34/offline-2.0.34.apk"
 }
